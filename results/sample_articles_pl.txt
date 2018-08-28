@@ -1,0 +1,1000 @@
+1;Kószka
+2;Morskie przejście graniczne Ustka
+3;Joseph Luns
+4;Diecezja Owensboro
+5;Jezioro Żnińskie
+6;Remzi Öztürk
+7;Rainer Hönisch
+8;Le Fenouiller
+9;Lista okrętów Royal Canadian Navy
+10;Richard Bull
+11;Brat Rudolf
+12;Deflektor tłokowy
+13;Tsooru
+14;Gmina Arden (Dania)
+15;Philippinenhof-Warteberg
+16;Gromada Jarocin
+17;Lista planetoid 249801-249900
+18;Kanibal z Rotenburga
+19;Urzędnik
+20;Estonia na Zimowych Igrzyskach Olimpijskich 1998
+21;Szerecseny
+22;Nampcelles-la-Cour
+23;Tyrańczyk brazylijski
+24;Mateusz Wielhorski
+25;Jacques Curie
+26;Neuberg
+27;West Chelborough
+28;Lantana pospolita
+29;Juan Mata
+30;Felix von Luckner
+31;Siciny (województwo kujawsko-pomorskie)
+32;Isichija
+33;Tablice rejestracyjne w Arabii Saudyjskiej
+34;Love, Fear and the Time Machine
+35;HMCS Chignecto
+36;Talia Castellano
+37;Wiedźmin (tom opowiadań)
+38;Hymn Grecji
+39;Carmen Maura
+40;Niezdarka dziewica
+41;Cailly-sur-Eure
+42;Rezerwat przyrody Cisy w Mogilnie
+43;Alpy Vaud
+44;Melhus
+45;11 Brygada Artylerii Przeciwpancernej
+46;Christopher Latham Sholes
+47;Hymn Somalilandu
+48;Achillas z Aleksandrii
+49;Sidbury
+50;Courlans
+51;Domus Galilaeae
+52;Shiki (powieść)
+53;Jerzy Wachowski
+54;Dom Starców na Wildzie w Poznaniu
+55;Salmanasar V
+56;Kościół św. Jana Chrzciciela i św. Jana Ewangelisty w Krakowie
+57;Skippers Corner
+58;Przy Włochaniu
+59;Krój pisma
+60;Kulancja
+61;Galo Plaza Lasso
+62;San Lorenzo de Tormes
+63;Mirošovice
+64;PFTA
+65;Ted Drake
+66;Przeczno
+67;Zalm
+68;Patrixbourne
+69;Lipniak (powiat łukowski)
+70;Qian Zhenhua
+71;Pyrilia
+72;Constanzana
+73;Stary Toruń
+74;Franciszka Amboise
+75;Maximiliano Richeze
+76;116 (liczba)
+77;Felixdorf
+78;Hussein Hadżdż Hassan
+79;Obłok Oorta
+80;SFP
+81;Analiza głównych składowych
+82;Gueye
+83;Nancy Landon Kassebaum
+84;Éperlecques
+85;Eguenigue
+86;Light On
+87;Piątkowo (powiat golubsko-dobrzyński)
+88;Selaincourt
+89;Fredericktown
+90;André Chorda
+91;Janusz Budzanowski
+92;Diecezja Mysore
+93;NURBS
+94;Torremocha
+95;Kościół Świętej Rodziny we Wrocławiu
+96;Gmina Łąkie
+97;18 Dywizjon Artylerii Ciężkiej
+98;In Passing
+99;Okręg Jonzac
+100;Valera Fratta
+101;(43293) Banting
+102;Mistrzostwa Islandii w Lekkoatletyce 2012
+103;Baśnie
+104;Kowno
+105;Rachel Bilson
+106;José Emilio Amavisca
+107;Fritz Jung
+108;St Ippolyts
+109;Tarpan dziki
+110;Bristol Bombay
+111;Patricia Maria Țig
+112;Erythrodiplax berenice
+113;Kajakarstwo na Letnich Igrzyskach Olimpijskich 2012 – kwalifikacje
+114;Leukogranit
+115;UTC+10:00
+116;Port lotniczy Syrta
+117;Sittiparus
+118;Wólka Wręcka
+119;Świętokrzyskie Zgrupowania Armii Krajowej
+120;Świadkowie Jehowy w województwie warmińsko-mazurskim
+121;Wólka Lesiewska
+122;Feliks Karpiński
+123;Ona i on (piosenka Artura Gadowskiego)
+124;Eötvös (ujednoznacznienie)
+125;Cyklopropan
+126;Spaltenstein
+127;Masakra w Ludlow
+128;Herb Kutna
+129;Uczenie maszynowe
+130;Cmentarz żydowski w Lidzbarku
+131;Wybory parlamentarne w Islandii w 1978 roku
+132;Azusa Aoki
+133;Marcel Albers
+134;Kościół Matki Bożej Królowej Meksyku w Laskach
+135;Murowaniec (gmina Koźminek)
+136;Rodzina Filipa V (1743)
+137;Javorový vrch
+138;Języki tasmańskie
+139;Lisew
+140;Hrabstwo Burke (Dakota Północna)
+141;Anke Köninger
+142;Podimore
+143;Półnuta
+144;Gorączka krwotoczna krymsko-kongijska
+145;Catrine Bengtsson
+146;Indyjsko-Polska Izba Gospodarcza
+147;David Albelda
+148;Jehoszua Gal
+149;Franciszek Ścibor
+150;Kazimierz Bąkiewicz
+151;Yu Miyahara
+152;Ratusz w Boguszowie-Gorcach
+153;Stašov
+154;Henri Tudor
+155;Zsolt Simon
+156;Zagorje (gmina Pivka)
+157;Rejowiec (gmina)
+158;Summer Vibes
+159;Sébastien Chabal
+160;1883 w polityce
+161;Przybranowo
+162;Senja
+163;Koronowo Wąskotorowe
+164;Krystyna Górniak
+165;Kaskasatjåkka
+166;Sanshō
+167;Zjednoczony Ekumeniczny Kościół Katolicki diecezji polskiej
+168;Wojciech Jerzy Has
+169;Khin Maung Lwin
+170;Frameries
+171;Gromada Prószków
+172;It's a Cool Cool Christmas
+173;Janusz Weiss
+174;Fontaine-le-Port
+175;Maitland (Nowa Południowa Walia)
+176;Siergiej Klaczin
+177;Danków (województwo lubuskie)
+178;Andy Black (piłkarz)
+179;Lawton
+180;Jimmie Johnsson
+181;Wilhelm z Gdańska (inkwizytor)
+182;Papieska Komisja Biblijna
+183;Minister Spraw Wewnętrznych (Księstwo Warszawskie)
+184;Phalawang
+185;Henryk Kon
+186;Rejon hajsyński
+187;Mistrzostwa Europy w Pływaniu 1938
+188;Lavercantière
+189;Orientacja seksualna
+190;Słębowo
+191;Bauyrżan Bajtana
+192;Jan Janowski
+193;Pelechuco
+194;Dzieci Sarajewa
+195;Beat Breu
+196;Flaga Bhutanu
+197;Bitwa nad Largą
+198;Narodowe Siły Zbrojne (pismo)
+199;Conrad Moench
+200;Philippe Coutinho
+201;Graveley
+202;Huehuetenango
+203;Hell of a Collection
+204;Dolní Pohleď
+205;Ekonomiczna analiza kary śmierci
+206;Popovigocimex
+207;SN 2001ax
+208;Jerzy Marr
+209;Edgars Cgojevs
+210;Guyans-Durnes
+211;Dajniszki (rejon ignaliński)
+212;Preconception Sex Selection
+213;Anatolij Kartaszow
+214;Puchar Niemiec w piłce nożnej (1968/1969)
+215;Lecey
+216;Urzędy centralne niesenatorskie
+217;Uniwersyteckie Centrum Kliniczne w Gdańsku
+218;Kościół Matki Boskiej Bolesnej na Szwedzkiej Górce
+219;Skoszewy
+220;Dyskografia Muse
+221;Stadion Al Zamalek
+222;Ghasri Valley
+223;Ján Čajak
+224;Prawo Gay-Lussaca
+225;Puntarenas (miasto)
+226;Henri Fauconnier
+227;Johan Gielen
+228;Kazimierz Raczyński
+229;Flaga Queensland
+230;Hans-Jürgen Dörner
+231;Parametryzacja Kučery-Youla
+232;Historia Suwałk
+233;Regina Bejma
+234;Millman
+235;Leo Jun Ikenaga
+236;Stany Zjednoczone Wielkiej Austrii
+237;Marszewo (powiat nowotomyski)
+238;Próg wyborczy
+239;Flávio Costa
+240;Jeździectwo na Letnich Igrzyskach Olimpijskich 2016 – skoki indywidualnie
+241;Bolesław Bujak
+242;Gromada Mostki (powiat świebodziński)
+243;Drozdowo
+244;Jaroslav Paška
+245;Totmes
+246;Witold Nowicki (lekarz)
+247;Welcome to the Zoo
+248;Stanisław Sołdek
+249;Liceum ewangelickie w Kieżmarku
+250;Chico Xavier (film)
+251;Duguetia riedeliana
+252;Carlo, Cokxxx, Nutten
+253;HMS Zulu
+254;Borowa (obwód charkowski)
+255;Lama Mocogno
+256;Ludwik Węgierski
+257;Port lotniczy Czokurdach
+258;Port lotniczy Tumlingtar
+259;Ulica 29 Listopada w Warszawie
+260;Carunchio
+261;Sheep Farm
+262;Portbou
+263;Wielbłąd
+264;Trojka (Unia Europejska)
+265;Kaplica św. Józefa w Starych Bielicach
+266;Inguma
+267;Morada Nova de Minas
+268;Bora-Bora
+269;Marktoffingen
+270;Józef Nogaj
+271;Aleksandr Łuczinski
+272;Mistrzostwa Polski w Szachach 1994
+273;Okręgowe rozgrywki w piłce nożnej woj. podlaskiego (2009/2010)
+274;Medernach
+275;Initial Coin Offering
+276;Brodawka sutkowa
+277;Mały Młyn
+278;Stanisław Grzybowski (zm. 1716)
+279;Józef Zilberman
+280;Emil Zerbe
+281;Scott Sampson
+282;Uvaria glabra
+283;Natzwiller
+284;Hilary Teage
+285;George Biddell Airy
+286;Pinsac
+287;Wiesław Władyka
+288;Lista japońskich banków
+289;Tidra
+290;Baureihe E 44
+291;Mistrzostwa Polski Seniorów w Lekkoatletyce 1936
+292;Pongaí
+293;Leszek Krowicki
+294;Gimnastyka na Letnich Igrzyskach Olimpijskich 1896 – ćwiczenie na drążku
+295;Eden (singel)
+296;Hugolin Magalotti
+297;Must Be the Music. Tylko muzyka
+298;USS Meteor
+299;Koniec Korycki
+300;Ruszcza
+301;Instalacja sanitarna
+302;Dynamo Stanisławów
+303;Stanisław Okęcki
+304;Xylopia
+305;Droga N240 (Holandia)
+306;Zapasy na Igrzyskach Ameryki Środkowej i Karaibów 1993
+307;Pierre de Voyer d’Argenson
+308;Nawożenie
+309;The Getaway (album Red Hot Chili Peppers)
+310;Trensacq
+311;Gromada Kraszewice
+312;Gromada Głomsk
+313;John O’Hara
+314;Nikola Vujčić
+315;Ołoj
+316;Nowa Demokracja (ujednoznacznienie)
+317;Hejiang (prowincja)
+318;Charles Robberts Swart
+319;Welington Castillo
+320;Nagroda Mythopoeic
+321;Stare (powiat szamotulski)
+322;Bermudy na Zimowych Igrzyskach Olimpijskich 1992
+323;Parafia Trójcy Przenajświętszej w Skarżysku Kościelnym
+324;Zblewo
+325;Gadsden
+326;Enerhodar
+327;Lignereuil
+328;Horodnianka (rzeka)
+329;Tylko dla twoich oczu
+330;Paryż-Roubaix 2006
+331;Rumunia na Mistrzostwach Świata w Lekkoatletyce 2011
+332;Mistrzostwa Europy w Piłce Siatkowej Mężczyzn 2013
+333;Rudki (stacja kolejowa)
+334;Gmina Perzanowo
+335;Shaun Maloney
+336;Pałac Nymphenburg
+337;Claremont Profile Method
+338;Rutland (Wisconsin)
+339;Trent Sainsbury
+340;196 Dywizja Piechoty (III Rzesza)
+341;Kopce (województwo podlaskie)
+342;Albert Camus
+343;Erasmus (program)
+344;Franz Xaver Eder
+345;Augustyn Działyński
+346;Bernd Nickel
+347;Folsztyn
+348;Miłobądz (powiat tczewski)
+349;Gromada Komarów-Osada
+350;Mordowia Ariena
+351;Charles Jenkins
+352;Sielec (powiat inowrocławski)
+353;Naksos (Sycylia)
+354;Parafia Trójcy Przenajświętszej w Lublinie
+355;Cheiloceras
+356;Synagoga Główna w Barcelonie
+357;Los Altos (Kalifornia)
+358;Babiniec (powiat zduńskowolski)
+359;Linia kolejowa 45 Sárbogárd – Székesfehérvár
+360;Michaił Krasnow
+361;Łyntupy
+362;Wera (opowiadanie)
+363;Aliabad-e Czahdegan
+364;Gdyby ściany mogły mówić 2
+365;Bruno Gollnisch
+366;Elkin Fernando Álvarez Botero
+367;Villaescusa
+368;Stanisław Tokarski
+369;Leon Wałęga
+370;Canonica d'Adda
+371;Papagaios
+372;Worth
+373;Alison Riske
+374;Westerrade
+375;Kamionka-Kolonia
+376;Ludmiła Litwinowa
+377;Akcja na tartak w Piaskach Królewskich
+378;Alfons Zielonko
+379;Kościół św. Kazimierza Królewicza w Krakowie
+380;Ferdynand Albrecht I z Brunszwiku-Lüneburga
+381;Iddin-ahhe
+382;Guatteria poeppigiana
+383;Gromada Cisowa
+384;Epilog (literatura)
+385;Raymundo Sabio
+386;Wacław Gralewski
+387;1824 w literaturze
+388;Nasisi (stacja kolejowa)
+389;Jezioro Somite
+390;Yosvani Goicochea
+391;Ukrzyżowanie (obraz Masaccia)
+392;Cannolo
+393;Park Narodowy Sassen-Bünsow Land
+394;Drulingen
+395;Chassezac
+396;Jan Danek
+397;Hemlington
+398;Agnieszka Janasiak
+399;Starwing
+400;Tężec
+401;Akonitaza
+402;Ralph Rose
+403;PlayStation Store
+404;Amedeo Grillo
+405;Monte Carlo Resort and Casino
+406;Maciej Lanckoroński
+407;V.35
+408;Alfa i Omega
+409;Featherstone (Staffordshire)
+410;Eparchia grodzieńska i wołkowyska
+411;Lázár Szentes
+412;Cukier trzcinowy
+413;Transekt
+414;Pianowo-Folwark
+415;Wybudowanie
+416;Szesnasty rząd Izraela
+417;Forum Politologiczne
+418;Mehr (Kranenburg)
+419;Rogowo (gmina Miłomłyn)
+420;Cmentarz żydowski w Kowalewie Pomorskim
+421;Gmina Topołowgrad
+422;Igrzyska Małych Państw Europy 1995
+423;Irmindo Bocheń
+424;Gawłowice (województwo łódzkie)
+425;Celico
+426;Salamandra czarna
+427;Sentiments (album Julii Marcell)
+428;Emile Marc de Saint-Hilaire
+429;Jankowice (powiat radomszczański)
+430;Conrad Logan
+431;Desmond Harrington
+432;Corpus Christi (miasto)
+433;Soulaures
+434;Cmentarz żydowski w Busku-Zdroju
+435;Grainville-Langannerie
+436;Wilhelm Traugott Krug
+437;Wodze pomocnicze
+438;Wyżyna Nowej Kastylii
+439;Orgun
+440;Villate
+441;Andy Keogh
+442;Georg Friedrich Daumer
+443;Struktura organizacyjna Polskiego Kontyngentu Wojskowego w Afganistanie
+444;Kątna
+445;Katedra św. Menasa w Heraklionie
+446;Fabian Pawela
+447;Biskupi lwowscy
+448;Zabytkowy cmentarz w Miszkowicach
+449;Derby Day
+450;Martín Palmeri
+451;Rezerwat przyrody Gołuska Kępa
+452;Vexille
+453;FN
+454;Terrarium: Live in Bydgoszcz
+455;Dodge (Nebraska)
+456;Jakow Józefowicz
+457;Somewhere in Time
+458;Bank of the West Classic 2017
+459;Jan Strożecki
+460;Osłowice
+461;Zabójstwo małżeństwa Jaroszewiczów
+462;Zabójcza perfekcja
+463;Taisa (Karcowa)
+464;Klukowo (Gdańsk)
+465;U.S. National Championships 1920
+466;Meskalina
+467;Bogdan Prus
+468;Pseudomonas syringae
+469;Kyryło Fesenko
+470;(3802) Dornburg
+471;Kościół Boży w Chrystusie (Stany Zjednoczone)
+472;3mai
+473;William Jackson
+474;Lecques
+475;Józef Wieczerzak
+476;Mozgawa (Kozubów)
+477;Jean Harbor
+478;142 Pułk Piechoty (II RP)
+479;Orange (New Hampshire)
+480;IS-4 Jastrząb
+481;Robyn
+482;Pogonów (województwo lubelskie)
+483;Stokowo-Bućki
+484;Bobrykowszczyzna
+485;Michał Nowosadzki
+486;Olympic Real de Bangui
+487;Stadion Olimpijski w Aszchabadzie
+488;Ivo Garrani
+489;Margaret Truman
+490;Bramka obrotowa
+491;Parasphaeria
+492;Serangoon
+493;Piotr Lubawin
+494;Ust-Ordyńsko-Buriacki Okręg Autonomiczny
+495;Gromada Golejów
+496;Cecilia
+497;Noty biograficzne - Mab
+498;Kościół Najświętszej Maryi Panny
+499;Akta sprawy H.
+500;Albert Curtz
+501;Antoine Roussel
+502;Marek Kośmicki
+503;Matt Archibald
+504;Podkończyce
+505;Klimontów (przystanek kolejowy)
+506;Flawia Domitylla
+507;Hotel Bazar w Poznaniu
+508;Małżeństwo osób tej samej płci w Connecticut
+509;Darja Diejewa
+510;Union Ganymed
+511;I symfonia c-moll – „Zlonickie dzwony” Dvořáka
+512;Antonio Adán
+513;Central Business District (Sydney)
+514;Indywidualne Mistrzostwa Europy Juniorów na Żużlu 1999
+515;Valgma
+516;Piłkarz roku w Rosji
+517;Bijay Gurung
+518;Pont de Tolbiac
+519;Kells (stacja kolejowa)
+520;Rising Star (Teksas)
+521;Aleksandrów (powiat rawski)
+522;Anything (singel Edyty Górniak)
+523;David Cunliffe-Lister
+524;San Vicente de Alcántara
+525;La Rete
+526;Roniéliton dos Santos
+527;Maupertus-sur-Mer
+528;Gmina Sokołów
+529;Bitwa pod Cillium
+530;Gromada Burzec
+531;Procisne
+532;Michał z Žamberka
+533;Horsleyhope
+534;Akiko Morigami
+535;Steve McCrory
+536;Karnıyarık
+537;Jasiennik Stary
+538;Metal symfoniczny
+539;Wróg Sharpe’a
+540;Pierre Lees Melou
+541;Konfederacja kapturowa
+542;Ewa Pełka-Wierzbicka
+543;Soma człowieka
+544;Stoke Hill
+545;Anton Anderledy
+546;Bill van Dijk
+547;Pistolet maszynowy Typ 79
+548;Amazonas 4A
+549;Mierzeja
+550;Port lotniczy Ad-Dammam
+551;Lepismium
+552;Jordi Figueras Montel
+553;Slaughter Beach
+554;Stacje polarne
+555;Wola Gutowska
+556;Podział administracyjny Egiptu
+557;1270
+558;Franciszek Różański
+559;Radża
+560;Eichelhardt (gmina)
+561;Ludwik Iwaszko
+562;Marpak
+563;Pępice (województwo opolskie)
+564;Terrestrial Trunked Radio
+565;Bolton (Vermont)
+566;Piotr Śliwicki
+567;An-Nas
+568;Datzeroth
+569;SN 2007ae
+570;Synagoga w Brunszwiku
+571;Jukka Koskinen (piłkarz)
+572;Mikroregion Livramento do Brumado
+573;Milion lat przed naszą erą (film 1966)
+574;Thurlestone
+575;Joel Konzen
+576;Michał Zieliński (snookerzysta)
+577;Argentina Open 2017
+578;Cmentarz wojenny nr 336 – Gierczyce-Czyżyczka
+579;Beşiktaş JK w europejskich pucharach
+580;Cromwell
+581;The Gary Coleman Show
+582;Sébastien Frey
+583;Volley Corigliano
+584;Brewster (Ohio)
+585;Herson Capri
+586;Riki-Oh: Historia Rikiego (film)
+587;Peredyło
+588;Bulwar Czarnej Przemszy
+589;Wrzosy (gmina Krzeszowice)
+590;Antoni Józef Gliński
+591;Helena Romer-Ochenkowska
+592;Kendell Williams
+593;Thomas Bruce (7. hrabia Elgin)
+594;Corigliano Calabro
+595;Fryderyk I (biskup lubuski)
+596;1067 w polityce
+597;Belfort (województwo pomorskie)
+598;André-Jacques Marie
+599;Wyższe Seminarium Duchowne w Radomiu
+600;UMM
+601;Patryk Noworyta
+602;Recoules-Prévinquières
+603;Jack O’Neill
+604;Pomorska Specjalna Strefa Ekonomiczna
+605;(1192) Prisma
+606;Bratkówka
+607;Diebach
+608;Carl Kau
+609;Jean-Marie Lovey
+610;Antyd
+611;Romankenkius pedderensis
+612;Victor Hugo in 1877
+613;Urodeta faro
+614;Artur Mykyrtczian (piłkarz)
+615;Cressac-Saint-Genis
+616;Someday My Prince Will Come
+617;Zduny Niemieckie
+618;BAC One-Eleven
+619;1634
+620;Mauricio Kagel
+621;Lista gwiazd w gwiazdozbiorze Góry Stołowej
+622;Marshmello
+623;Efekt rygla
+624;Xiaonanmen
+625;(2676) Aarhus
+626;London Bridge Station
+627;Ryōyū Kobayashi
+628;Autostrada M5 (Wielka Brytania)
+629;Brekcja
+630;Fala II
+631;Kościół Zwiastowania Najświętszej Maryi Panny w Zamościu
+632;John Connolly (pisarz)
+633;Królik miniaturowy
+634;ATP World Tour 2014
+635;Mistrzynie US Open w grze pojedynczej
+636;Tomasz Merta
+637;NGC 7455
+638;Synagoga w Parysowie
+639;Emi Kussi
+640;Maroussi BC
+641;Basic Element (zespół muzyczny)
+642;Gerald Gardner
+643;Lokomotiw-Pierowo
+644;Biblioteka Pedagogiczna w Trzebnicy
+645;Argenthal
+646;Rohne (Schleife)
+647;Nasrallah
+648;Sebastian Szczepański
+649;Nowe Bielawy
+650;Jasionka (województwo lubelskie)
+651;Vignacourt
+652;Zgromadzenie Narodowe (Bangladesz)
+653;Thaumatagrion
+654;Zamek biskupów chełmińskich w Lubawie
+655;Kevin Bobson
+656;Tinglev (stacja kolejowa)
+657;Frédéric Mitterrand
+658;Jackob Long
+659;Ryszard Olasek
+660;Shlemon Warduni
+661;Lugny-lès-Charolles
+662;Sean Holland
+663;Fantestein
+664;Skarbimira
+665;Boxholm (Iowa)
+666;Skały Puchacza
+667;Haimhausen
+668;Tanya Roberts
+669;Soolu
+670;Parafia św. Jana Chrzciciela w Janowie Lubelskim
+671;Yunnan (herbata)
+672;K-1 World Grand Prix 1995
+673;NGC 71
+674;Przekładnia mechaniczna
+675;Osuchów-Parcela (gmina Koźminek)
+676;Mirela-Luminita Murgescu
+677;Kuklacz
+678;Rękopis królowodworski
+679;Sylvain Savoia
+680;East
+681;Formuła zgody
+682;Piotry
+683;Cubnezais
+684;Dżabal Abu Alaka
+685;Powrót wilczycy
+686;Hintersee
+687;Elżbieta z Saksonii-Altenburg (1826–1896)
+688;Braunton
+689;Modesta
+690;Ogród Roślin Leczniczych GUMed
+691;Seńkowice
+692;Graham Rahal
+693;Folwark (Dalechowice)
+694;(12238) Actor
+695;Pieczyska (powiat inowrocławski)
+696;Edmond Farhat
+697;Prezydenci Botswany
+698;Štefan Füle
+699;Jaime King (ujednoznacznienie)
+700;Adam Michna
+701;13 Dywizja Piechoty (LWP)
+702;Lynn Williams (aktor)
+703;7 Pułk Lotnictwa Specjalnego Marynarki Wojennej
+704;SMS V 186
+705;Reprezentacja Ukrainy na Mistrzostwach Europy w Wioślarstwie 2007
+706;Thatcher
+707;Szymon (król Makurii)
+708;Dobříň (przystanek kolejowy)
+709;Max Bahr
+710;Parafia Świętej Anny w Święcanach
+711;Oxton (Nottinghamshire)
+712;Bliźnięta (astrologia)
+713;Nobuyuki Aihara
+714;Nalewka (farmacja)
+715;Pavol Blažek
+716;Remco Bruggemann
+717;Uchylanie się od podatków
+718;Kolidar
+719;Orléat
+720;Ihor Doroszenko
+721;Jan Szymański (łyżwiarz)
+722;Schleching
+723;Troszanka
+724;Marianna Janion
+725;Sun Zhifeng
+726;Stadion Miejski w Prijedorze
+727;Synagoga chasydów ze Słonima w Krynkach
+728;Arvydas Skrupskis
+729;Tourreilles
+730;Bromeliohyla
+731;FK Chirchiq
+732;Museo de Zaragoza
+733;Władysław Wołoszyn
+734;Ruth von Kleist-Retzow
+735;Westminster (ujednoznacznienie)
+736;Sant Andreu Salou
+737;Prawa człowieka
+738;Wolfersdorf (Francja)
+739;(970) Primula
+740;Gmina Miżyniec
+741;Lakeside
+742;EHF Liga Mistrzów 2009/2010
+743;Paradise (album)
+744;Dziobem i pazurem
+745;Tygrysy Europy 2
+746;Holendry Kuźmińskie
+747;Kanon dziesięciu mówców
+748;Adam Berg
+749;Kopanica (jezioro)
+750;Kościół Wniebowzięcia Najświętszej Maryi Panny w Woli Osowińskiej
+751;(3968) Koptelov
+752;Gromada Świbie
+753;Schronisko na Starorobociańskiej Równi
+754;Zdobycie Tyrnowa przez Turków
+755;Stary Majdan
+756;John Ireland (kompozytor)
+757;Dekanat Łobez
+758;Moskwicz 2734
+759;Analiza leksykalna
+760;Veris Kiszyniów
+761;Dziecko (film)
+762;NGC 7431
+763;Vic Wunderle
+764;Kołacin (województwo wielkopolskie)
+765;Kamień Skarthiego
+766;Gromada Myszadła
+767;Komsomolsk nad Amurem
+768;282 p.n.e.
+769;The Dark Discovery
+770;Białostocki Pułk Obrony Terytorialnej
+771;Jean-Pierre Bemba Gombo
+772;Mauretania na letnich igrzyskach olimpijskich
+773;Broadstone
+774;Koniec C
+775;Mandl
+776;Gulfport (Floryda)
+777;Mirosław Krzyśko
+778;Granada (Minnesota)
+779;9 Pułk Piechoty k.k. Landwehry
+780;Sahrijja
+781;Razem (czasopismo)
+782;XO-3
+783;Diecezja San Pedro-en-Côte d'Ivoire
+784;Order Świętej Elżbiety
+785;Potyczka pod Cabezón
+786;RODAN (baza danych)
+787;Pałac w Jeleniowie
+788;Krzysztof Michałkiewicz
+789;Nowoworoncowka
+790;Kerron Stewart
+791;Misja Stałego Obserwatora Stolicy Apostolskiej przy Organizacji Narodów Zjednoczonych
+792;Dhanakaul Purba
+793;Miłość i nienawiść (utwór)
+794;Port lotniczy Namangan
+795;(4460) Bihoro
+796;Mellau
+797;Miłość jest ślepa
+798;Bielice (województwo warmińsko-mazurskie)
+799;Grand Golliat (masyw)
+800;Ernest Laszlo
+801;Jokerman
+802;Eliminacja
+803;Sokodé
+804;(1593) Fagnes
+805;1586 w literaturze
+806;Unia Stowarzyszeń i Organizacji Polskich w Ameryce Łacińskiej
+807;James Legge
+808;Turcja na Zimowych Igrzyskach Olimpijskich 2014
+809;Cephalogale
+810;Order Piotra I
+811;Zenvo ST1
+812;Szkolne schronisko młodzieżowe
+813;Maurepas
+814;Komisariat Straży Celnej „Worochta”
+815;Partia Mandatu Narodowego
+816;Witold Krupiński
+817;Stowarzyszenie Akademii Języka Hiszpańskiego
+818;Lee Phillip Bell
+819;Wały A
+820;The Calog
+821;Garindein
+822;Murat Direkçi
+823;Premierzy Rumunii
+824;Finneganów tren
+825;Neuville-Vitasse
+826;Pozdrowienia z Rosji (film)
+827;Radzionków Rojca
+828;Fernando Forestieri
+829;Bouqueval
+830;Guglielmo Borghetti
+831;Bengt Holmström
+832;Noonday
+833;Canko Cwetanow
+834;Stour (Anglia Wschodnia)
+835;Anton Ferdinand
+836;Roque Gonzales
+837;Komosa wzniesiona
+838;Świtarzów
+839;Pije Kuba do Jakuba
+840;Filotera
+841;Wielka Kapela
+842;Chyba tak...
+843;Master of Orion II: Battle at Antares
+844;Cyfrowa twierdza
+845;Dni niemieckie
+846;Bobby Verdon-Roe
+847;205 męczenników japońskich
+848;Prochor (diakon)
+849;Pailloles
+850;James Dutton
+851;Wincenty Potacki
+852;Emsetal
+853;Harry Mason (Silent Hill)
+854;Wilmington Manor
+855;Ali El-Said
+856;Sekretarz ringowy
+857;Lista rajdów rajdowych mistrzostw świata
+858;Ochotniczy Legion Holenderski
+859;Lista supernowych z lat 1991-95
+860;Hoszany
+861;Piotr z Werony
+862;Maurycy Brauman
+863;Stormlord
+864;Mistrzostwa Świata w Biathlonie 2007
+865;Viljandimaa
+866;Sobór Trójcy Świętej we Wiaźmie
+867;Kompleks małego członka
+868;Nowosiółki (rejon maniewicki)
+869;Jädivere
+870;Shirdi
+871;Spencer Pumpelly
+872;Palomar 13
+873;Cerkiew św. Paraskiewy Piątnicy w Czarnawczycach
+874;Piaszna
+875;Muzeum Uniwersyteckie Historii KUL w Lublinie
+876;Simón Bolívar (szczyt)
+877;Amerykański kuc szetlandzki
+878;Ryszard Jagiełło
+879;Język dalmatyński
+880;Port lotniczy Malanje
+881;José Iván Gutiérrez
+882;Loarn mac Eirc
+883;Okręg wyborczy Midhurst
+884;Wood Dale
+885;Little Carlton (Nottinghamshire)
+886;1 Pułk Wiernych Kozaków
+887;Wieża radości, wieża samotności
+888;Liteň (stacja kolejowa)
+889;Katedra św. Antonina z Pamiers w Palencji
+890;Hochschwabgruppe
+891;Naczynia Botalliusza
+892;Bristol 407
+893;Ryszard Sziler
+894;NGC 5420
+895;(4493) Naitomitsu
+896;Forsyth Barr Stadium
+897;Ciemny kryształ
+898;Deathmatch Classic
+899;Shogun (album)
+900;Bogusław Parczewski
+901;Clathrinidae
+902;Karabin maszynowy Furrer M25
+903;Pikietaż
+904;Żelisławki
+905;New Haven (Indiana)
+906;Adolf Ludvig Ribbing
+907;Zygmunt Czechowicz
+908;Irnerius
+909;Anderson (Teksas)
+910;MDNA
+911;(4742) Caliumi
+912;Paul Donovan
+913;Enrique Collar
+914;This Is What I Do
+915;Katedra Świętego Ducha w Hradcu Králové
+916;Ogrodnik (film 2003)
+917;Wólka Olbięcka
+918;Óscar Vílchez
+919;Nowa Kaledonia
+920;Neostoicyzm
+921;Salih Mahmoud Osman
+922;Brzezinka (powiat oświęcimski)
+923;Marianka (Krosna-Wieś)
+924;Zmiana imienia i nazwiska
+925;Lans (Saona i Loara)
+926;CELLATRON 8027
+927;Kaloga
+928;Kucie na gorąco
+929;Koszmar w Dunwich
+930;Manin (Syria)
+931;E441 (trasa europejska)
+932;Wskaźnik uwarunkowania
+933;Lech Poznań w sezonie 2011/2012
+934;Forth (ujednoznacznienie)
+935;Mejoza
+936;Frigyes Turán
+937;Hugh Walpole
+938;Jarczów (gmina)
+939;Młyński wiadukt
+940;Lubomir Kavalek
+941;Ullånger
+942;Mariusz Ratajczak
+943;Lorenzo Mangiante
+944;Bílý Kostel nad Nisou
+945;Dystrykt 9
+946;Kaplica Potockich na Wawelu
+947;Programowanie agentowe
+948;Renatus Nkwande
+949;Studia z Prawa Wyznaniowego
+950;Cal (Unix)
+951;Gromada Chwałowice (powiat tarnobrzeski)
+952;Grabs
+953;Kościół Wniebowzięcia Najświętszej Maryi Panny w Raniżowie
+954;Albert Zafy
+955;Duvaliomimus crypticus
+956;Pavlovce
+957;Liza Nowa
+958;Brian Shenton
+959;Pilot Academy
+960;Port lotniczy Toussaint Louverture
+961;Date (Hokkaido)
+962;Bazylika św. Jana w Łacińskiej Bramie
+963;Telewizja Republika
+964;Hrabstwo Edgefield
+965;Karolina Amelia
+966;Lubenowo
+967;Hoher Eichham
+968;Gustavo Garcia-Siller
+969;Kish Air
+970;Witalis
+971;Kosmos 33
+972;Cząstka w pudle potencjału
+973;WaKeeney (Kansas)
+974;Galerie St. Petri
+975;Sztafeta (rzeźba)
+976;Gotycyzm
+977;Standartenoberjunker
+978;Wimbledon 2008 (gra mieszana)
+979;Niżnia Widłowa Turnia
+980;Pico da Nevosa
+981;Teoria niebezpieczeństwa
+982;Josh Freese
+983;Hane
+984;(2568) Maksutov
+985;40
+986;Sojusz Postępowców
+987;Hubert Klimko-Dobrzaniecki
+988;Joanna Orska
+989;GTR
+990;Żółwia
+991;Yoelvis Hernández
+992;Gymnocalycium amerhauseri altagraciense
+993;Komturia tucholska
+994;Konrad Napierała
+995;M1909
+996;Casearia obovalis
+997;Wilhelm I Starszy
+998;Gorazd II (Pavlík)
+999;Craig Johnston
+1000;Audrix

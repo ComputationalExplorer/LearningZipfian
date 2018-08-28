@@ -1,0 +1,1000 @@
+1;Helmindid
+2;Ferdinand
+3;Hiinalinn (Tartu)
+4;Implantaat
+5;Sootaga raudteepeatus
+6;Yasuhito Endō
+7;Sutlema mõis
+8;Pakri tuletorn
+9;Kristiina Poska
+10;Montivipera
+11;Hešvan
+12;Struktuurdiagramm
+13;Giovanni Alfonso Borelli
+14;Ellamaa Sepa-Mihkli rändrahn
+15;Khadžaran
+16;Richard Bull
+17;Kose-Uuemõisa sõda
+18;105
+19;Võru lipp
+20;Billundi lennujaam
+21;Lemmjõgi
+22;Kaitsealade võrgustik
+23;Sathya Sai Baba
+24;Maaja
+25;Semjon Vengerov
+26;Kassihänd
+27;Tammisaare Talumuuseum
+28;Palamuse
+29;Andon Beça
+30;Soosaare vald
+31;Ammassaare mägi
+32;Rheine
+33;Selgeltmaitsmine
+34;Herbert Kütt
+35;Orguse
+36;Priilased
+37;Aatomifüüsika
+38;Carl Maximowicz
+39;Mateeria
+40;Alajõe külanõukogu
+41;Jacques Charles
+42;Kasemetsa–Kiisa tee
+43;Tallinna–Mõisaküla raudteeliin
+44;Rooba
+45;Udo Petersoo
+46;Pajulaadsed
+47;82
+48;Mika Newton
+49;Kaido Reivelt
+50;Bensoüülperoksiid
+51;Pjotr Kaverin
+52;Takida
+53;420
+54;Stalinlane
+55;Haldusreform
+56;Harklaid
+57;Defekt
+58;Punane (perekonnanimi)
+59;Liberaalne Rahvapartei
+60;Ints Dālderis
+61;Marder II
+62;Metsaema
+63;Korneti mõis
+64;George Pólya
+65;Juta Bedia
+66;Pragi kool
+67;Päevanurme
+68;Metsla lubjakivimaardla
+69;Erwin Piscator
+70;Samtgemeinde Wathlingen
+71;Valgevene jalgpallikoondis
+72;Kauna tänav
+73;Chicago Pauluse kogudus
+74;Kasahstani Rahvuslik Olümpiakomitee
+75;254. jalaväediviis
+76;Mississippi maakond
+77;Toulon
+78;Tanel Tuuleveski
+79;Torm (laev)
+80;Suvarnabhumi rahvusvaheline lennujaam
+81;Tõnu Timm
+82;Lihuntsi mõis
+83;Eesti mütoloogia
+84;Melissa Fahn
+85;Anatoolia
+86;Anti Saar
+87;Daniel Dumonstier
+88;Mäeküla (Põhja-Pärnumaa)
+89;Tisiphone (täpsustus)
+90;Cliff Richard
+91;Hiievälja
+92;Viktor Palm
+93;Junõi väin
+94;Sümfoonia nr 4 (Šostakovitš)
+95;Martin Weinek
+96;Metasekvoia (perekond)
+97;Nii lihtsalt ei saa
+98;Galen
+99;Liu Xiang
+100;Toni Nieminen
+101;Mõhnjalalised
+102;Jada piirväärtus
+103;Lõuna-Khorāsāni provints
+104;Vladislav II
+105;Jaan Üts
+106;Alinda-tüüpi asteroidid
+107;Valter Maggi
+108;Dominantsus
+109;P53
+110;Brandenburg (linn)
+111;Valik (bioloogia)
+112;Lodumetsa tee
+113;Puusüsi
+114;Topologi viadukt
+115;Sturm
+116;Leopold Loodus
+117;Keskkonnaruumi seadus
+118;Jumdžaagijn Tsedenbal
+119;Louis II (Lääne-Frangi kuningas)
+120;Lakewoodi Eesti Kool
+121;Juhan Lepasaar
+122;Stereo
+123;Suta
+124;Richard Luhtaru
+125;Kaltan
+126;Kaspia meri
+127;Sekundakord
+128;Avots (ajakiri)
+129;Valmo Kriisa
+130;Mees La Manchast
+131;Erwin von Dehn
+132;Auastmes ülendamine
+133;Lotofaagid
+134;Senaiga järv
+135;Aravete
+136;Munda keeled
+137;Mäkaste ohvrikivi
+138;Helilooming
+139;Ravimi geneeriline nimetus
+140;Christian von Schlözer
+141;Elva Nike Arena
+142;Percé
+143;Hans Sepp
+144;Peep Mardiste
+145;Katari vapp
+146;Kuues ristisõda
+147;Plasmoodium
+148;Vorbuse
+149;Ephalophis
+150;The Daily Show
+151;Lestalised
+152;Reputatsioon
+153;Prantsuse kaitse
+154;Ivan Ljahhov
+155;Liivi keel
+156;Pekka Kokkonen
+157;Jaan Lipp
+158;A-Rosa Riva
+159;Vääna raamatukogu
+160;LET L-13 "Blanik"
+161;Noli me tangere (Botticelli)
+162;JoJo (album)
+163;Dienas Lapa
+164;Ōkuma
+165;Lalsi
+166;Leninski rajoon
+167;Chlodovech
+168;Kalme (Põltsamaa)
+169;Heiki Vilep
+170;Android (operatsioonisüsteem)
+171;Alaldusdiood
+172;З
+173;Kert Kesküla
+174;Pagramantis
+175;1980. aasta Eurovisiooni lauluvõistlus
+176;Mari köök
+177;Kurista
+178;Liberalismi Akadeemia
+179;Foo Fighters
+180;Eesti Seljaajusonga ja Vesipeahaigete Selts
+181;Virve Aruoja
+182;Ekstsess
+183;Oru haruraamatukogu
+184;Albaania vürstkond
+185;Aandu karstiala
+186;Nora Kaplinski
+187;Balhaši ahven
+188;Martiska järv
+189;Vilis Lācis
+190;Lehte Hainsalu
+191;Eesti Davis Cupi koondis
+192;Tapa vene põhikool
+193;Huul (botaanika)
+194;Mustang (täpsustus)
+195;Äksi vald
+196;Eesti-Soome ühistantsupidu
+197;Zarvantsi
+198;Taustkeha
+199;Paul James
+200;785
+201;Berģi
+202;Andreas Knopken
+203;Mihhail Rodzjanko
+204;Võõbu
+205;Tamsalu valla vapp
+206;Jeu de paume
+207;Vanapagana õpperada
+208;Ajalooline koolkond
+209;Anabar
+210;Krugersdorp
+211;Offenbach
+212;1936. aasta Eesti meistrivõistlused kergejõustikus
+213;61 (Tallinna bussiliin)
+214;Vehkleja (film)
+215;Waltzingi Saint-Bernardi kirik
+216;Pórose saar
+217;Ben E. King
+218;Sidur
+219;Osamu Dazai
+220;Lüganuse valla lipp
+221;Jahimehe tee
+222;Abiajamine
+223;Al-Baḩr al-Aḩmari provints
+224;Armeenia linnade loend
+225;Maddalena saarestiku rahvuspark
+226;12. sajand eKr
+227;Tšeboksarõ rajoon
+228;A-Rosa Stella
+229;Bibbi maakond (Alabama)
+230;Hilja Rüütli
+231;Liitpuue
+232;Thomas Mayne Reid
+233;Vaimulik muusika
+234;Sanja Ilić
+235;Tiskre oja
+236;Jacksoni maakond (Ohio)
+237;Glenn Gould
+238;New Scientist
+239;Representatsiooni kriis
+240;Kalle Blomkvist
+241;Pahra
+242;Vene Kunstnike Ühendus Eestis
+243;Rekvisiit
+244;Hüüumärk
+245;Veršvai
+246;Nikolai Lukitš Babasjuk
+247;2002. aasta Eesti meistrivõistlused Kreeka-Rooma maadluses
+248;Farss
+249;Caraș-Severini maakond
+250;Lilli (Mulgi)
+251;Naage maastikukaitseala
+252;Sekundaarne mineraal
+253;Mets-pirnipuu
+254;Kuvar
+255;Banfora
+256;Wilhelm Kühne
+257;Artokraatia
+258;Madagaskari saar
+259;Mägra tänav
+260;Martna raamatukogu
+261;Strandberg
+262;Mesopotaamia madalik
+263;Tõlketeadus
+264;Baltimaade Metsanduse, Veterinaaria ja Põllumajanduse Ülikoolide võrgustik
+265;Väike Tütarsaar
+266;Grana Padano
+267;Ieriķi mõis
+268;Karuli
+269;Pruunkaru
+270;Vladimir Plehhanov
+271;Valkeala
+272;Iago Aspas
+273;Hõberebane
+274;Naohiro Takahara
+275;Tuloma
+276;Homoallüülne rühm
+277;Viļāni
+278;Āraiši kihelkond
+279;Ampère'i jõud
+280;Ilmar Aasmets
+281;Sankt Ludgeri klooster
+282;Koormis
+283;Euroopa Liidu Nõukogu
+284;Frangimaa
+285;Timur Vermes
+286;Painuva rändrahn
+287;Kolumbuste põlvkond
+288;Lovozero rajoon
+289;Vana-Otepää mõis
+290;Vanemallohvitser
+291;Soome välisminister
+292;Jaungulbene
+293;Matamata
+294;Ignatios Antiookiast
+295;Rochester (New York)
+296;RFK
+297;Tamašoŭka
+298;Tõeline lahus
+299;Pavel Dõmov
+300;Stensele kirik
+301;Tsianahajärv
+302;Priit Vene
+303;2002. aasta Euroopa meistrivõistlused kergejõustikus
+304;Saksa Liit
+305;Philipp von Krusenstiern
+306;Rauno Gutman
+307;Hodograaf
+308;Modena ja Reggio hertsogkond
+309;Sibulaõli
+310;Laußnitzi vald
+311;Kuradisaar
+312;Väliskulu
+313;Khahhaber Žvania
+314;Tervisekaitseinspektsioon
+315;Johann Joachim Helwig
+316;Olga Kamyshleeva
+317;Demosthenes
+318;Gottlieb Alexander von Schmidt
+319;Eesti jalgpalli 1998/1999. aasta karikavõistlused
+320;Paris (täpsustus)
+321;Põldealune laht
+322;Massimo Ambrosini
+323;Stridsvagn m/42
+324;Mõõtesüsteem
+325;2009. aasta Malaisia Grand Prix
+326;Nikolai Morozov
+327;Sadul (muusika)
+328;Lee Põllumaa
+329;Kaidor Kahar
+330;Viktor Koern
+331;Nieuwkerke
+332;Lääne-Ghatid
+333;Vuntsid
+334;Sillamäe ülemine paisjärv
+335;Rahivere mõis
+336;Ciney
+337;Jiří Paroubeki valitsus
+338;Virtsu alumine tulepaak
+339;Vitra disainimuuseum
+340;Herbert Aamisepp
+341;Eesti U18 jäähokikoondis
+342;Piraaja Klubi
+343;Ene Aurik
+344;Vasakpoolne kommunism
+345;Priedaine
+346;Puupiir
+347;Inimelule letaalselt või fataalselt ohtlikud organismid
+348;Maadlus 1896. aasta suveolümpiamängudel
+349;Ahaggar
+350;Herkki-Erich Merila
+351;Krüüdneri vald
+352;Hermann Zimmermann
+353;Jaapani aed
+354;Ulf Stark
+355;Eikeland
+356;Hiina pajud
+357;Zeliard
+358;Nabucco (gaasijuhe)
+359;Autor
+360;Lümandu mõis (Hageri)
+361;Sugukond
+362;Karolin
+363;Jaan Ikmelt
+364;Ribosoom
+365;Pelguranna tänav
+366;Dohno
+367;Jönköpings Södra IF
+368;Tallinna Tehnikakõrgkool
+369;Loime peakraav
+370;AS SRV Kinnisvara
+371;Kiritimati
+372;Nõmmemõisa
+373;Hiiumaa militaarmuuseum
+374;SD
+375;Muhumaa (laev)
+376;Mongefossen
+377;Lisa Gisler
+378;Eesti mäng
+379;Tuunika
+380;Vintskap
+381;Lienz
+382;Rooma kirjanike loend
+383;Telliskivi Loomelinnak
+384;Punane aprill
+385;Jõemõisa järv
+386;A-tüüpi isiksus
+387;Edmundo Alves de Souza Neto
+388;Alu Lasteaed-Algkool
+389;Narva Joaoru linnamägi
+390;Herbert Ligi
+391;Hiidmuna
+392;11. august
+393;Rosenbachi vald
+394;640. aastad
+395;Lepiku tänav
+396;Jüri Traurig
+397;Lipniku
+398;Varjend
+399;Rose Marie
+400;Ferdinand Justius Luther
+401;Valgu (Hiiumaa)
+402;Halliste Eesti Kodanike Komitee
+403;Murueide tütred
+404;Triin Kahre
+405;Miilits
+406;Ervita vald
+407;Keel (loogika)
+408;Imavere jalgpalliväljak
+409;Melchior Hoffmann
+410;Mabon
+411;Niederstriegis
+412;Räusktiir
+413;Kätlin Kaldmaa
+414;Võimla
+415;Roukli
+416;Nurk
+417;Erik Eriksson
+418;Eesti Keele Instituut
+419;Georg Meyer
+420;Maria Eagle
+421;Vooru vald
+422;Charlize Theron
+423;Käsitsipaber
+424;Retroviirused
+425;Jan Amos Komenský
+426;Takaki Kanehiro
+427;Kanepi–Leevaku maantee
+428;Saepuru
+429;2015. aasta Euroopa U23 meistrivõistlused kergejõustikus
+430;Eesti Rahvavägi
+431;Harilaid (laev)
+432;Čazma
+433;Mala Kõrijivka
+434;Rahvuskogu 53. valimisringkond
+435;Kjell Johansson
+436;Auciemsi mõis
+437;Seredka
+438;Jaroslav Tark
+439;Buster Keaton
+440;Moraalne motivatsioon
+441;Carl Bernhard Gebhardt
+442;Kuldne Palmioks
+443;Leheroots
+444;Slovakkia 2018. aasta taliolümpiamängudel
+445;G-moll
+446;2009. aasta kergejõustiku maailmameistrivõistlused
+447;Väravataga
+448;Elavad surnud (telelavastus)
+449;Aimla mõis
+450;Saksamaa Ida-Aasia eskaader
+451;Morgenstern (täpsustus)
+452;Guinea riigipeade loend
+453;Tiigilendlane
+454;Meini kass
+455;Õhik
+456;Kalvarija omavalitsus
+457;Kemikaalide teabekeskus
+458;Vazlujivka
+459;Karl von Ritter
+460;Laeva jõgi
+461;Ivan Repjev
+462;Vestlusi vene kultuuriloost
+463;Rannajõe ohvriallikas
+464;Mihhail Maslovi tänav
+465;Jürilill
+466;Brugine
+467;Kaltsineerimine
+468;Ookeaniplaneet
+469;Härgla
+470;Juhkentali tänav (Narva)
+471;Aardla ürgorg
+472;Võre (matemaatika)
+473;Nižnevartovski rajoon
+474;Kea
+475;Marshalli missioon
+476;Maya Ababadjani
+477;Kevade (film)
+478;Kai Tafenau
+479;Orava jõgi
+480;Georgi Kjoseivanov
+481;Johann Gustav Stockenberg
+482;Reigi
+483;Otto Hupp
+484;Yana Toom
+485;Mini jõgi (Fujian)
+486;Fiaal
+487;Ladumisaabits
+488;Eratosthenese sõel
+489;Sétif
+490;Suur Punane Laik
+491;Tsirgupäev
+492;Volokonovka rajoon
+493;Saksa-Rooma riigi territooriumite loend (U)
+494;Kaie Kotov
+495;Heinrich Johann von Winkler
+496;Toop
+497;Alfonso Arau
+498;Põhja-Aasia
+499;Sõjavangid (film)
+500;Good and Evil: An Absolute Conception
+501;Massiiv
+502;Toomas Liivamägi
+503;Stakliškės
+504;Freundlich
+505;La Plata lahing
+506;Johan Laidoneri plats 8
+507;Punane hanemalts
+508;Toila vald (1993)
+509;22
+510;Molekuli steeriline pinge
+511;Meinecke von Schierstedt
+512;Ibrāhīm ibn Ya‘qūb
+513;Harlem Désir
+514;Bernhard I (Braunschweig-Lüneburg)
+515;Siim-Tanel Annus
+516;Synclavier
+517;Jaak Kaarma
+518;Bellis Kullman
+519;Maturahu poolsaar
+520;Rakkestad
+521;Chrzanów
+522;Ari Ólafsson
+523;Faas (elekter)
+524;Temnikova ja Kasela galerii
+525;Dhaulagiri
+526;Impulsstoiteallikas
+527;Fedorivka (Tõvrivi rajoon)
+528;Viiratsi valla vapp
+529;Kidad
+530;2 (Tallinna trammiliin)
+531;Ökoloogiline jalajälg
+532;Kanepi tänav (Pärnu)
+533;Sündinud 22. augustil
+534;Georgi Atanasov
+535;Pascual Pérez
+536;Kanada palsam
+537;Johan August Sandels
+538;Ühikarotid
+539;Rapuntsel (film)
+540;Balustraad
+541;Moodul
+542;Paju ravimtaimena
+543;Kohtla vald (1939)
+544;Berliini Vaba Ülikool
+545;Albu mõisa sild
+546;Roman Ubakivi
+547;Sauðárkrókur
+548;Edgar Cayce
+549;Külapood
+550;Säästva Renoveerimise Infokeskus
+551;Voore Põhikool
+552;Nabala vennastekoguduse palvemaja
+553;Männitaelik
+554;Marco Borriello
+555;Heisri vald
+556;Krostitzi vald
+557;Esku
+558;Pentti Rautiainen
+559;Nõmme liivik (Viljandimaa)
+560;Giljotiin
+561;Josefa Iloilo
+562;Jules Dejerine
+563;1889. aasta Pariisi maailmanäitus
+564;ARM
+565;Mossalski rajoon
+566;Marija Aleksandrovna
+567;Hoyningen-Huene
+568;Pavel Avdejev
+569;Northamptonshire
+570;GNU Compiler Collection
+571;Ain Järvalt
+572;Platvorm (geoloogia)
+573;Toivo Orav
+574;Martinair
+575;Eduard Haffner
+576;Päikesepuri
+577;Jüri Kaup
+578;Palsi paljand
+579;Ålandi koalitsioon
+580;Littergrund
+581;Will Durant
+582;Badland
+583;Ummaru
+584;Lapinjärvi vald
+585;Okassealised
+586;Seamus Heaney
+587;Frits Oja
+588;Sümmeetriakaalutlused
+589;Suuremõisa mõisa tuuleveski
+590;Valgu mõis
+591;Nuputamis-videomängud
+592;Näsiniine tänav
+593;Ahvena tänav
+594;Jõgisoo (Lääne-Nigula)
+595;Simeon II
+596;Alise Stein-Anvelt
+597;Theodor Heinrich Renatus Hesse
+598;Kuritse järv
+599;Kylie Minogue
+600;Ilse Lehiste
+601;Hanka järv
+602;Martin Harnik
+603;The Notorious B.I.G.
+604;Eugene Mirman
+605;Lembit Roots
+606;Lodja
+607;CMOS-sensor
+608;Trezzo Tinella
+609;Salmonid
+610;Intellektuaalomandi õiguste kaubandusaspektide leping
+611;Eesti Arboristide Ühing
+612;Tornata
+613;Prootonhapped
+614;2. kromosoom
+615;Lutsu jõgi
+616;Hartenbos
+617;Monaco lipp
+618;Edward Snowden
+619;Toivo Tootsen
+620;Põhjamaade Geenipank
+621;Ala-Vadsa lump
+622;Mälgu mõis
+623;Kollakas
+624;Heino Puuste
+625;Usher
+626;Vadja keel
+627;Korvpalli Meistriliiga 2011/2012 hooaeg
+628;Rahvussümbol
+629;Inokulatsioon
+630;Kudani
+631;Kose suvemõis
+632;Visarid
+633;Rising Sun
+634;Dagda piirkond
+635;August Topman
+636;Welle: Erdball
+637;Flegma
+638;Kellaõli
+639;Miguel Trauco
+640;Fedor Bucholtz
+641;Viljandi tänavate loend
+642;Nüüdispuhasväärtus
+643;Kasakova (Oudova rajoon)
+644;Sepamäe kalmistu
+645;Buldersi talu
+646;Mehikoorma Issandamuutmise kirik
+647;1900
+648;Tähtvere vald (Nõo kihelkond)
+649;Soome jäähokikoondis
+650;Joomasööst
+651;Ingrid Agur
+652;Ruth Peramets-Püss
+653;Heinrich August Dietrich
+654;Urengoi
+655;Meie Maa (väliseesti ajaleht)
+656;Eesti Kultuuriloo ja Folkloristika Keskus
+657;Vivekananda
+658;Väike tänav (Tallinn)
+659;Vara Brigitta kogudus
+660;Kong Fuzi
+661;Saturni rõngad
+662;Liana Alexandra
+663;Corse-du-Sudi departemang
+664;Sadiq Khan
+665;Aleksander III mälestussammas
+666;Chíos
+667;Must narmik
+668;Analüütiline otsustus
+669;Tori linnaosa
+670;Futa Helu
+671;Rahvusvaheline kartuliaasta
+672;Kalev Kuljus
+673;Dashiell Hammett
+674;Staal
+675;Iluuisutamine 1956. aasta taliolümpiamängudel
+676;Joseph John Urusemal
+677;Statius
+678;Europiidne rass
+679;Heinrich VIII (Reußi prints)
+680;Tsuura lomp
+681;Zend Framework
+682;Olaf Luiga
+683;Mehhiko jalgpallikoondis 2002. aasta jalgpalli maailmameistrivõistlustel
+684;Jānis Porziņģis
+685;Harilaid (poolsaar)
+686;Isehõrenemine
+687;Juan Camilo Zúñiga
+688;Microsoft Silverlight
+689;Aeroplankton
+690;Jim Henson
+691;Lexington
+692;Amvrakía laht
+693;Rannakajaka tänav
+694;Fidel LaBarba
+695;I. Pavlovi nimeline Peterburi Riiklik Meditsiiniülikool
+696;Piusa koopad
+697;Bitia
+698;Šatėse vald
+699;Carlos de la Mota
+700;Nigul Maatsoo
+701;Ants-Peep Silvere
+702;Hüpassaare õpperada
+703;Américo Thomaz
+704;Ágio Órose laht
+705;Tallinna 21. Kool
+706;Jutumärgid
+707;Slavjansk-na-Kubani
+708;Keeleke
+709;Sajid Javid
+710;Hs
+711;Red River
+712;Veis
+713;David Thompson (korvpallur)
+714;Olesk
+715;Amanda Lääne
+716;Jääpurjetamine
+717;Mastis
+718;Püloon (lennundus)
+719;Pipett
+720;Mat Hoffman
+721;1956. aasta NSV Liidu meistrivõistlused Kreeka-Rooma maadluses
+722;Valga lahing
+723;Ahelaisomeeria
+724;Realism (kunst)
+725;Rohe-tondihobu
+726;Andreas Kurrikoff
+727;Tark elektrivõrk
+728;Heidi Aadma
+729;Saika (Rõuge)
+730;Tartu Pärmivabrik
+731;Aasta tegu (Tartu)
+732;Kaljuste
+733;Sündinud 28. detsembril
+734;Inari (jumal)
+735;Hoorni neem
+736;Museaal
+737;Vene saun
+738;Arnold Weinstein
+739;Kalle Küttis
+740;Slaavia
+741;Peter Utaka
+742;Vesiflirdi allee
+743;Muusikal
+744;Jakobi tänav (Tallinn)
+745;Merepoeg
+746;Teede Tehnokeskus
+747;Irina Rodnina
+748;British Airwaysi lend 38
+749;Püha Katariina
+750;Cleo
+751;Nina Hruštšova
+752;Aktsiakapital
+753;Tšaikovski
+754;Tuliliilia
+755;Pascal (mikroarhitektuur)
+756;Bartholomäus Hoeneke
+757;Kratisitt
+758;Rasina mõis
+759;The Open Door
+760;Konrad Veem
+761;Puidutöötlemise mõisteid
+762;Lembit Saarnits
+763;Adolfas Mekas
+764;Scharenberg
+765;Oil City (Maryland)
+766;Muskuspart
+767;Rovaniemen keskuskenttä
+768;Laagri–Hüüru tee
+769;437
+770;Eesti teedeminister
+771;Kergueleni saarekapsas
+772;Porfiri Krõlov
+773;Aadu Mutsu
+774;Paul Cobley
+775;Luis Fonsi
+776;Hiiukirik
+777;Bonifato mägi
+778;Sündinud 12. augustil
+779;Nord
+780;Kolumbia (kala)
+781;Purtse jõgi
+782;Luksemburg Eurovisiooni lauluvõistlusel
+783;Milčo Mančevski
+784;Mobiiltelefonide ajalugu
+785;Kazimir Malevitš
+786;Liidia Pintmann
+787;Vologda oblasti vapp
+788;E-50
+789;Jõetaguse
+790;Ludwig V
+791;Rootsivere
+792;Allan Kiil
+793;Counting Stars
+794;Kombits
+795;Milorad Gajović
+796;Burchard Leonhard Viktor Sperrlingk
+797;Päevakivi
+798;Djenné
+799;Elmu Peek
+800;Yayi Boni
+801;Bengt Skytte
+802;Gallia Cisalpina
+803;Avalik haldus
+804;Tõnu Reintamm
+805;Liivi- ja Eestimaa Maakultuuri Büroo
+806;Best of Ozz
+807;Vecvāle mõis
+808;Mick Jagger
+809;Ugala puiestee
+810;Inturist
+811;Ülase tänav (Tallinn)
+812;Psammophis orientalis
+813;Queen Anne'i maakond
+814;Free Nelson Mandela
+815;August Strindberg
+816;Alex Rocco
+817;Asama
+818;Turkish Airlinesi lend 1951
+819;Virtsjärv
+820;Raadio 4
+821;York
+822;Alice Tisler (ansambel)
+823;Armastuse Ühendriigid
+824;Arkadi Rannes
+825;Trammiliiklus Ust-Ilimskis
+826;Tallinna bussijaam
+827;Rovigo provints
+828;Raffael
+829;Berle Brant
+830;Zonguldaki provints
+831;Klooga-Aedlinna raudteepeatus
+832;Urita
+833;Kroodi org
+834;Pn-siirdega väljatransistor
+835;Martti Himma
+836;Kase külanõukogu
+837;Johan Turi
+838;Pärnu Leht
+839;Veiko Vasar
+840;Anhalt-Zerbst
+841;Anatoli Sobtšak
+842;Holmenkollen
+843;Karl Litzmann
+844;Eesti Ameerika Fond
+845;Sim Racing
+846;Laikneeme tee
+847;Peetruse teine kiri
+848;Ann Ojarand
+849;Nélson Semedo
+850;EOÜ
+851;Eduard Soosaar
+852;1964. aasta taliolümpiamängud
+853;Jüri Kotšinev
+854;They Only Come Out at Night
+855;Võšgorod (täpsustus)
+856;Merivälja kai
+857;Hüpokaleemia
+858;Malcolm X
+859;Lea Laarmaa
+860;Vladimir Starikov
+861;Galeniit
+862;Eesti suur valge siga
+863;Assooride lipp
+864;Anu Kollom
+865;4. detsember
+866;Tanel Talve
+867;Aoshima
+868;Nanorobot
+869;Carl Johannes Masing
+870;Aleksander Trusa
+871;Arnold Sobbe
+872;Palsmane vald
+873;Bidasoa jõgi
+874;Rein Maran
+875;Amuur
+876;Kaja Wunder
+877;Empire
+878;Gracia Baur
+879;Piparkook
+880;Anno von Sangerhausen
+881;28. jaanuar
+882;Tšuraptša
+883;Saare vald (1939)
+884;Hellenism
+885;Metsmesindus
+886;Ophelia (maal)
+887;Putnok
+888;Michael Phelps
+889;Pistis
+890;Ubinas
+891;Pruun-vööthüään
+892;Peptiidid
+893;Gorõn
+894;Sõnamäng
+895;Sajandid
+896;Bo McCalebb
+897;GML
+898;Biograafiad (T)
+899;Liis Tappo-Treial
+900;Eesti maatõugu veis
+901;Inguššia
+902;Lincolni maakond (Lääne-Virginia)
+903;Parabool
+904;/2016ALBUM/
+905;Det som engang var
+906;Piigandi mõis
+907;Eesti NSV teeneline looduskaitsja
+908;Venemaa kosmoseväed
+909;Sada esimest
+910;Montauroux
+911;Anne küla
+912;Anna küla
+913;Äärik
+914;Fabian Frei
+915;Kalli jõgi
+916;Jõud
+917;Braunschweig-Lüneburgi kuurvürstkond
+918;Viljade ehitus
+919;Assali järv
+920;Venevere külanõukogu
+921;Alustre-Päärna veehoidla
+922;Hannibal Sehested
+923;Fosforhape
+924;Metalist (Luganski oblast)
+925;Lindanise lahing
+926;Endu laht
+927;Must auk
+928;Postitempel
+929;Hüdropoonika
+930;Detail (masinaehitus)
+931;Kid Galahad
+932;Taavet Jansen
+933;Suru vald
+934;Modaalne loogika
+935;Zabužžja (Nemõrivi rajoon)
+936;Noore arhitekti preemia
+937;Freda
+938;Kõrbestumine
+939;Crucified
+940;Jakobi tänav
+941;Korea nulg
+942;Risti tänav
+943;Danilov
+944;Orson Welles
+945;Oomiste
+946;Odense Ülikool
+947;Ago Pärtel
+948;Daniel Konarzewski
+949;Valgevene kõrgustik
+950;Sergei Mironov (jalgpallur)
+951;Majandusline Rühm
+952;Tondiraba
+953;Tõrvas
+954;Natasha Bedingfield
+955;Ringaudas Songaila
+956;Gjermund Eggen
+957;Anthony Hopkins
+958;Hatha-jooga
+959;Rakvere tuuleveski
+960;Kambja vald (1939)
+961;Bengt Klasson Horn
+962;Shelby maakond (Tennessee)
+963;Järva-Jaani raudteejaam
+964;Konstantin Lagunov
+965;Wolfgang Wilhelm (Pfalz-Neuburg)
+966;Edgar Talvik
+967;459
+968;Operatsioon Sond Chara
+969;Apostlite teod
+970;Nothing’s Gonna Change My Love for You
+971;Kõdukärblased
+972;Hans Herbjørnsrud
+973;Kierbedźi sild
+974;Reinhold Jürgenson
+975;Ioniidid
+976;Tihedaõieline käoraamat
+977;Metro Plaza
+978;Türsamäe vald
+979;Max Vasmer
+980;Poel
+981;Monterrey
+982;Saab 35 Draken
+983;Tühja maja mõistatus
+984;OÜ Saare Dolomiit-Väokivi
+985;Elena Risteska
+986;Jääkeegel 1998. aasta taliolümpiamängudel
+987;Metsik loodus (film)
+988;.yu
+989;Bambergi peapiiskoppide loend
+990;Sagadi tiik
+991;Aeronausifoobia
+992;Lucia legendi meistri Maarja altar
+993;Milena Dravić
+994;¡Tierra y Libertad!
+995;Zschepplini vald
+996;Petteri Hasa
+997;Elmar Järvesoo
+998;Uelzen
+999;Mikko Saarinen
+1000;Konfessionaliseerumine

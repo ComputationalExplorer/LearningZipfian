@@ -1,0 +1,1000 @@
+1;Bill Anders
+2;Preston
+3;Listi yfir Numb3rs-þætti (6. þáttaröð)
+4;PC
+5;Efnahags- og viðskipta­ráðuneyti Íslands
+6;Sveitarstjórnarkosningar á Íslandi 2002
+7;Metsölulögin með Helenu Eyjólfsdóttur
+8;Alþingiskosningar 2007
+9;Víetnamstríðið
+10;Pitcairn
+11;Mjúkbolti
+12;Jónsteinn
+13;Jaworzno
+14;Úkraínska
+15;Marlís
+16;Bosníska
+17;Lauren Bacall
+18;Stofnun Árna Magnússonar í íslenskum fræðum
+19;Goðaland
+20;Lífsleikni
+21;Pési rófulausi (sjónvarpsþáttur)
+22;Úlfljótur (lögsögumaður)
+23;Blómey
+24;Leikbók
+25;Hafragrautur
+26;George Lopez
+27;Lestarstöð
+28;Reykkvars
+29;Black Ingvars
+30;Vernharður
+31;1483
+32;1660
+33;Satýr
+34;Murr ehf
+35;Stjörnufræði
+36;Prófkjör Samfylkingarinnar 2009
+37;Súrmjólk
+38;Guillaume Joli
+39;Michelsen úrsmiðir
+40;San Sebastián de los Reyes
+41;Borgarmúrarnir í Nürnberg
+42;Thomas More
+43;Skam
+44;SAS
+45;Orkuleiðrétt mjólk
+46;Shropshire
+47;Bochotnica
+48;Greve Strand
+49;Júnía
+50;Ljóðorkulind
+51;Signa (mannsnafn)
+52;Friðarhöllin
+53;Páfiðrildi
+54;28. ágúst
+55;Lýsing
+56;Kaldársel
+57;Guðmundur Sigurjónsson
+58;Jarosław Kaczyński
+59;Arnfreyr
+60;1840
+61;Þyrnirós (planta)
+62;Kristján Danaprins
+63;Phylloxeroidea
+64;Umritun grískra og latneskra nafna á íslensku
+65;Ávaxtafluga
+66;Spirou et Fantasio à Tokyo
+67;Listi yfir þjóðminjaverði Svía
+68;Hörgur
+69;Hetjur Valhallar - Þór
+70;Balls of Fury
+71;Íþróttafélagið Draupnir
+72;Tækniháskóli München
+73;Hjalti Skeggjason
+74;Heilbrigðisráðuneyti Íslands
+75;Mannúðarsálfræði
+76;Hengiölur
+77;Paradísarlaut
+78;Katowice
+79;Kingston upon Thames (borgarhluti)
+80;Eðallofttegund
+81;Norður-Karólína
+82;2009
+83;Hollywood
+84;Oodaaq-eyja
+85;Knúsumst um stund
+86;Gunnlaugur Leifsson
+87;Skóli
+88;Ævintýri í Maraþaraborg - Barnasaga með söngvum
+89;Göppingen
+90;Vaxtaálag
+91;79
+92;Grímsvötn
+93;1730
+94;Fötlun
+95;Puyehuevatn
+96;Efnahags- og viðskiptanefnd Alþingis
+97;Drift
+98;Masakiyo Maezono
+99;Geirdís
+100;Rúten
+101;Fernaldia pandurata
+102;Anna S. Þorvaldsdóttir
+103;Brands þáttur örva
+104;Latínsegl
+105;Wind Point
+106;Paleósentímabilið
+107;Lundur (Svíþjóð)
+108;Frederick Cook
+109;Handknattleiksárið 2010-11
+110;Gyrðir Ívarsson
+111;Forsetakosningar á Íslandi 1980
+112;Keisarakróna
+113;Ellen DeGeneres
+114;Æðruleysisbænin
+115;Símadeild kvenna 2002
+116;Hinn íslenski þursaflokkur
+117;Växjö
+118;Viðtalsbil
+119;Einar
+120;955
+121;Pjaxi
+122;Venus (reikistjarna)
+123;Huddersfield
+124;Tilgáta Collatz
+125;Brandur
+126;Flugvél
+127;Papar
+128;Chvrches
+129;SFR - stéttarfélag í almannaþjónustu
+130;Kákasus
+131;Ordabok.is
+132;Teitur Gunnlaugsson
+133;Evrópukeppnin í knattspyrnu 1960
+134;Einliðaleikur
+135;Smallville (8. þáttaröð)
+136;Rauðablástur
+137;Hvestuvirkjun
+138;Vísindaheimspeki
+139;Sigrún Björk Jakobsdóttir
+140;Pancho Demmings
+141;Alfreð Clausen og Sigrún Ragnars - Fyrr var oft í koti kátt
+142;Karþagó
+143;Cho Oyu
+144;Wu-kínverska
+145;Satoshi Otomo
+146;1161
+147;873
+148;Etufall Dirichlets
+149;Ástrónesísk tungumál
+150;Sveifluhljóð
+151;Nóbelsverðlaun í lífeðlis- og læknisfræði
+152;Björn Ingi Hrafnsson
+153;Skór
+154;Gelgjutangi
+155;Bingó
+156;Skinnhúfuklettar
+157;Flóki
+158;Hvanneyri
+159;Kimbrar
+160;Fáni Vatíkansins
+161;Heimsálfa
+162;Buslendur
+163;Veiran
+164;Kjartan Bjargmundsson
+165;Koki Mizuno
+166;Stapi
+167;Guðni
+168;Paderborn
+169;Blóðskilun
+170;Listi yfir þjóðtungur Indlands
+171;Ferfætlingar
+172;GSG 9
+173;Selabaggi
+174;Francisco I. Madero
+175;Yoshihiro Natsuka
+176;Bókabúð Máls og menningar
+177;Röðunarreiknirit
+178;Gljúfurá (Húnaþingi)
+179;Handen
+180;One Day
+181;Flygill
+182;Herdís Þórðardóttir
+183;Sólrún Michelsen
+184;Mýósín
+185;Jón Arnór Stefánsson
+186;Einar Þorsteinsson
+187;Dawn Martin
+188;Cyril Genik
+189;Þjóðarsáttin á Íslandi 1990
+190;Reykelsi
+191;Fleygrúnir
+192;Sumar
+193;Hadsjí
+194;Jósefína
+195;Annögl
+196;Austin (Texas)
+197;Loch Ness
+198;Sevastópol
+199;Svartgreni
+200;Helgi Hálfdanarson (þýðandi)
+201;Hvítá (Árnessýslu)
+202;Francisco Pizarro
+203;Stanley Fischer
+204;Opið efni
+205;Brynjólfur
+206;Einar Þorsteinn Ásgeirsson
+207;743
+208;714
+209;Loftþyngd
+210;10. mars
+211;Vefsöfnun
+212;Ögmunda
+213;Alnæmi
+214;Náttúrusteinar
+215;Arilíus Marteinsson
+216;Haukur S. Magnússon
+217;Kanaríeyjar
+218;Vaka
+219;Austurríska karlalandsliðið í handknattleik
+220;Hvítfeld
+221;Sameindaklónun
+222;Riddarabókmenntir
+223;Pál Erdős
+224;1925
+225;Luis Buñuel
+226;Thomas Jefferson-minnisvarðinn
+227;Hof í Svarfaðardal
+228;Erfðavísir
+229;Yrsa Sigurðardóttir
+230;Laterít
+231;RFC aprílgabb
+232;Þórunn Egilsdóttir
+233;Breiðavík
+234;Frans Ferdinand erkihertogi
+235;Múmínálfarnir
+236;Prófsumma
+237;Parísarhjól
+238;Maríukirkja (Reykjavík)
+239;Hormónaraskandi efni
+240;Hagbarður
+241;Hákon Eiríksson
+242;Bundið myndan
+243;Elliði
+244;Secret 26
+245;Alnus × hosoii
+246;Náttúruauðlindabókhald
+247;Final Cut Express
+248;Grágás
+249;Klassísk skilyrðing
+250;Yasser Arafat
+251;Valfríður
+252;Stanley
+253;Mansjúríubjörk
+254;GAIS
+255;Ulrich von Wilamowitz-Moellendorff
+256;Platonsk ást
+257;1961-1970
+258;Stefánný
+259;Dísella
+260;Kanadaösp
+261;Helg eru jól - Fjórtán jólalög
+262;Andalúsía
+263;1868
+264;Harnarlykill
+265;Geirlaugur Magnússon
+266;Páskaeyja
+267;Þórín
+268;Wish You Were Here
+269;Rap Monster
+270;Hallgrímskirkja (Reykjavík)
+271;Kapítalismi
+272;Þórunn
+273;Logi Gunnarsson
+274;Kastalinn í Nottingham
+275;Yasuharu Sorimachi
+276;Novopangea
+277;Listi yfir leiki í Landsbankadeild karla 2007
+278;Æskýlos
+279;Karaókí
+280;Pólýfónkórinn og kammersveit – Gloria og Magnificat
+281;Sacha Baron Cohen
+282;Hnikar
+283;.mw
+284;Hagfræði
+285;Guðný Böðvarsdóttir
+286;Darwin (Ástralía)
+287;Frjósami hálfmáninn
+288;Fáni Rúanda
+289;Kengo Kawamata
+290;Gróður
+291;Gunnröður
+292;Vesturstrandar hipp hopp
+293;Hnífapar
+294;Árni M. Mathiesen
+295;Einey
+296;Indiana
+297;Drekinn hans Péturs (kvikmynd 2016)
+298;Il manifesto
+299;Þruma
+300;Mlungu dalitsani Malaŵi
+301;Listi yfir CSI:NY (5. þáttaröð)
+302;Eiríkur Hróaldsson
+303;Hjalti Jón Sveinsson
+304;Hestfjall (Árnessýslu)
+305;Skopstæling
+306;Nestoríos
+307;Sjávarsalt
+308;Kosuke Ota
+309;Guðmundur Bergmann Steinsson
+310;Nikolaikirkjan í Kíl
+311;Georgía (fylki BNA)
+312;Otiorhynchus morio
+313;Þátttaka Íslands á Ólympíuleikum
+314;Chewbacca-vörnin
+315;Lyngbobbaætt
+316;Eftirmarkaður
+317;Munnvatn
+318;Rússnesk matargerð
+319;1. deild karla í knattspyrnu 2001
+320;Hersir
+321;Corey Reynolds
+322;Símaskrá
+323;Regnþykkni
+324;Blóðvatnslækning
+325;Norðfjarðargöng
+326;Yale-háskóli
+327;Tansanía
+328;Dómkirkjan í Hróarskeldu
+329;Kúvíkur
+330;Kommúnistaflokkur Íslands (m-l)
+331;Ólafur Guðmundsson
+332;Tónstigi
+333;Jafnvægi
+334;Enevold Kruse
+335;Neslistinn
+336;Manchester United
+337;Zico
+338;Þóra Friðriksdóttir
+339;Íris
+340;Íslandsráðgjafi
+341;Konungsríkið Sukhothai
+342;1067
+343;Þjóðardeildin (NFL)
+344;Köldukvíslarvirkjun
+345;Gödel, Escher, Bach
+346;Opole (hérað)
+347;Jim Marrs
+348;Efsta deild karla í knattspyrnu 1945
+349;Skólahljómsveit Austurbæjar
+350;Drekaþyrnir
+351;Borgarholtsskóli
+352;Söngvakeppni evrópskra sjónvarpsstöðva 2000
+353;Skarðshreppur (Dalasýslu)
+354;Theodosius 2.
+355;.pw
+356;Engilbert
+357;Jorginho Putinatti
+358;Úrsúla
+359;Bárðar saga Snæfellsáss
+360;Bláhegri
+361;Hvalsey (Hjaltlandseyjar)
+362;Vilborg Arna Gissurardóttir
+363;Arnoldo Mondadori Editore
+364;Lárentíusarkirkjan í Nürnberg
+365;Aðfararveð
+366;Snorri Sturluson
+367;Lada Sport (hljómsveit)
+368;Ólafur bekkur Karlsson
+369;Sabbatsdagur
+370;Brottnám (líffræði)
+371;Brauð
+372;Fótbolti.net
+373;Plymouth (Montserrat)
+374;Klettafjöll
+375;Kertasníkir
+376;Abies flinckii
+377;Kristanna Loken
+378;Hiroki Yamada
+379;Tvíflötungsgrúpa
+380;Stóra-Laxá
+381;Heimir Hallgrímsson
+382;Essence Atkins
+383;Tora Torapa
+384;Ljósmyndasafn Reykjavíkur
+385;Adobe Photoshop
+386;Eyrarvinna
+387;Salma Hayek
+388;Gæflaug
+389;Titill
+390;Hinrik 3.
+391;Carl William Hansen
+392;Prjónn (prjónaskapur)
+393;Bergný
+394;Einar Magnússon
+395;Sögur af sviðinu
+396;NCIS: Los Angeles (3. þáttaröð)
+397;Saccostrea
+398;Nykvarn
+399;Leonardo Pisano
+400;Eryxías (samræða)
+401;Julie Kavner
+402;10. maí
+403;Malabó
+404;António Lobo Antunes
+405;Arnóra
+406;Juniperus lutchuensis
+407;The Great Northern Whalekill
+408;Should've Known Better
+409;Liður (stærðfræði)
+410;Háfrónska
+411;Loftárás
+412;Réttarholt
+413;Nathan Burns
+414;Yugawaralít
+415;Gorkúla
+416;Húðstrýking
+417;Svala Nielsen - Fjórtán sönglög eftir fjórtán tónskáld
+418;Viðkvæmar tegundir
+419;Hverfitregða
+420;Vologdafylki
+421;Valur Gunnarsson
+422;Bakki í Svarfaðardal
+423;Tíberíus
+424;SOS-barnaþorpin
+425;Múhameð VI af Marokkó
+426;Gloppuhnjúkur
+427;World of Warcraft
+428;Rauðhetta (2011 kvikmynd)
+429;1. deild karla í knattspyrnu 1997
+430;Skemmtiþáttur ársins
+431;PETA
+432;Eyvar
+433;Lundalilja
+434;Jackie Chan
+435;Julio César Baldivieso
+436;Patrick Swayze
+437;Guðbrandur Hlíðar
+438;Hið íslenzka reðasafn
+439;Hjaltalín
+440;Frjálslyndi flokkurinn (Svíþjóð)
+441;Gróðurhús
+442;Vetni
+443;Ivy League
+444;Söngleikur
+445;Pt (aðgreining)
+446;Skraparotspredikun
+447;KR
+448;Nasjonal Samling
+449;Kolkis
+450;Chasey Lain
+451;.zw
+452;Aleppó
+453;Óbó
+454;Trúarjátning (kristni)
+455;Carlos Renato Frederico
+456;Hverfisgata 4-6a
+457;Ernestó
+458;Evrópska ráðið
+459;Fab lab
+460;Græna byltingin (Reykjavík)
+461;Algirdas Julien Greimas
+462;Prólaktín
+463;Fáni Úganda
+464;Kremlið í Moskvu
+465;Hóladómkirkja
+466;Nanómetri
+467;Múlan 2
+468;Klippari
+469;Tommy Thayer
+470;Upprisa Z
+471;Spænska heimsveldið
+472;Gráselja
+473;Þórunn Ormsdóttir
+474;Asmara
+475;Steffi Graf
+476;Amtsbókasafnið á Akureyri
+477;Fordismi
+478;Sarah Vowell
+479;Frægðarhöllin í München
+480;Margeir
+481;Shizuo Miyama
+482;Almenningur (hugverk)
+483;Margrét prinsessa, greifynjan af Snowdon
+484;Sófistar
+485;Abraham
+486;Volgograd
+487;Mandarína
+488;Taro Aso
+489;Sarah Bernhardt
+490;Jón Þorláksson á Bægisá
+491;Íslenska kvótakerfið
+492;Stafafura
+493;IWork
+494;Alfreð Clausen, Ingibjörg Þorbergs og Maria Lagarde
+495;Davíð Hildiberg Aðalsteinsson
+496;Grikkjakrókus
+497;Q
+498;Steve Oedekerk
+499;Foxtrot (kvikmynd)
+500;1595
+501;Grænkarpi
+502;Viktoríufossar
+503;Róttækni
+504;Hlíðardalsskóli
+505;Umferðarlög
+506;Folda
+507;William Walker
+508;Hráefni
+509;Pelé
+510;Vitis vinifera
+511;Anastasía (kvikmynd 1997)
+512;Santó Dómingó
+513;Meistaradeild Evrópu
+514;Haúsa
+515;Hreppsnefndarkosningar á Seltjarnarnesi
+516;Menelás
+517;Janusfjall
+518;Dagný (Sönglag)
+519;Bókmerki
+520;Böðull
+521;1200
+522;Cotonou
+523;Sundurleitni
+524;1943
+525;Ungmennafélagið Víkingur
+526;Listi yfir þjóðgarða í Englandi og Wales
+527;Sól
+528;D-blokk
+529;Sjálfhverfni
+530;Listi yfir lyngrósategundir
+531;Valentínusardagurinn
+532;Doppureynir
+533;Banani
+534;Shahnameh
+535;Apocalypse Now
+536;Lyferfðamengjafræði
+537;Alnus jorullensis
+538;Martina Stoessel
+539;Hraun á Skaga
+540;Ungverjareynir
+541;Austurey
+542;Flatur skattur
+543;Finistère
+544;Drekinn hans Péturs
+545;Finnlaugur
+546;Lilo og Stitch 2 : Stitch fær skammhlaup
+547;Óli
+548;Serksætt
+549;Torneträsk
+550;Standard & Poor's
+551;Nadine Gordimer
+552;1. deild karla í knattspyrnu 1981
+553;Örlagagyðjur
+554;Daníelsslippur
+555;Pekingönd
+556;Dalsfjörður
+557;John Wayne
+558;8. desember
+559;Murilo de Almeida
+560;Langtímaefling
+561;Vídalínsætt
+562;Búnaðarsamband Suðurlands
+563;Galatía
+564;Veldi (stærðfræði)
+565;79 f.Kr.
+566;Rósey
+567;Kögurskottur
+568;Guarana
+569;Mürzzuschlag
+570;Neshreppur innan Ennis
+571;Eldjárn
+572;18. ágúst
+573;Camilla
+574;Logi
+575;Íþróttafélagið Gerpla
+576;Ísókrates
+577;Kynhlutverk
+578;Lóa (mannsnafn)
+579;Fontur
+580;Deiling
+581;Perlumóðir
+582;Samlegðaráhrif
+583;Eiríkur hinn smámælti og halti
+584;Tony Scott
+585;Alícante
+586;Auður djúpúðga Ketilsdóttir
+587;Lionflói
+588;Bútan
+589;Mark Sheppard
+590;Háskólinn í Rochester
+591;Árið sem Ricardo Reis lést
+592;Kynferðislegt ofbeldi
+593;Slow Food
+594;Trönuber
+595;Xserve
+596;Þrýstingur
+597;Stratford (London)
+598;1729
+599;Sveinungur (landnámsmaður)
+600;Lena
+601;Villisvín
+602;Nirvana (búddismi)
+603;Sævin
+604;Málgreining
+605;Nárú
+606;Franskar kartöflur
+607;Carl Sandburg
+608;Jarl (nafn)
+609;Georg
+610;Lögmannshlíðarkirkja
+611;Hildegard
+612;Minningar um Sókrates
+613;Marínering
+614;1 (aðgreining)
+615;Sheffield United F.C.
+616;Birkir Bjarnason
+617;Fimleikafélagið Ernir
+618;Sjá
+619;Evgenía
+620;Gunnar Gunnarsson
+621;Friðrik Friðriksson (prestur)
+622;Skálholtsskóli
+623;Samræður í Túsculum
+624;Matvælaöryggi
+625;Samuel Adams
+626;Björn Ingimarsson
+627;Alice Through the Looking Glass (film 2016)
+628;Rokk, calypso, skiffle
+629;Einhverfa
+630;Rúnhildur
+631;Skúli Jón Friðgeirsson
+632;Dvalargró
+633;Heilaga rómverska ríkið
+634;Fanganýlenda
+635;Julia Annas
+636;Angíótensín II
+637;.lc
+638;Bjarni Jónsson (listmálari)
+639;Hinrik Frehen
+640;Tierp
+641;Alþingiskosningar 2017
+642;Meghalaya
+643;Alþjóðasiglingamálastofnunin
+644;Úrslitaleikur meistaradeildar Evrópu 2007
+645;Holyrood
+646;Dúnlykill
+647;Sukhothai
+648;Gaukur
+649;Granít
+650;Fornleifafræði
+651;Evrumynt
+652;Tímabil
+653;Bette Davis
+654;Bermúdeyskur dalur
+655;Kaliforníuflói
+656;Á vegum úti
+657;1791
+658;Saga Kópavogs
+659;Fríða og dýrið
+660;Gunnsteinn (ábóti)
+661;Djúnka
+662;Betula schmidtii
+663;Guillaume Apollinaire
+664;Paul Bowles
+665;Sameinuðu þjóðirnar
+666;Brákarsund
+667;Túnfífill
+668;Noritaka Hidaka
+669;Mjölby
+670;Siðfræði Evdemosar
+671;Michelangelo Antonioni
+672;Þjóðbókasafn
+673;Cremona
+674;József Kossics
+675;NORDEK
+676;Hrökkviskata
+677;Todmobile - Todmobile
+678;Sigurður Jónsson
+679;Rodrigíska
+680;La Fiancée de Lucky Luke
+681;Rúmenska
+682;Greenwich
+683;Auðkennislykill
+684;Hvannir
+685;Rúsína
+686;Tekla
+687;Mýrahreppur (V-Ísafjarðarsýslu)
+688;Guðvarður
+689;Shuichi Gonda
+690;Hærusveppir
+691;Rafmagns- og tölvuverkfræði
+692;Þroskasálfræði
+693;Vilgeir
+694;Dúfur
+695;Norrænt samstarf
+696;Jeffrey Dahmer
+697;Listi yfir Skálholtsbiskupa
+698;Blesugróf
+699;Tíraspol
+700;Isa
+701;2. deild karla í knattspyrnu 1961
+702;Hawaii-skyrta
+703;Oulu
+704;Pétur mikli
+705;Thorberg
+706;Damjan
+707;H
+708;Jaðar (mengjafræði)
+709;Tímaskekkja
+710;Ingimunda
+711;Mynddiskur
+712;Reikistjörnufræði
+713;Antwerpen
+714;Neytendalán
+715;Grófargil
+716;520 f.Kr.
+717;A (aðgreining)
+718;1209
+719;Flugan
+720;Gloria Gaynor
+721;Kirkjuból
+722;Skutulönd
+723;Tónakvartettinn frá Húsavík - Rauðar rósir
+724;Ingmar Bergman
+725;Sigursteina
+726;Símun av Skarði
+727;Robert Mugabe
+728;Þriðja millitímabilið
+729;Ingólfur Júlíusson
+730;Larix mastersiana
+731;Skógar (aðgreining)
+732;Eðlisverkfræði
+733;Górilla
+734;Napoléon Joseph Charles Paul Bonaparte
+735;Fáni Tansaníu
+736;Helma
+737;Cambridgeshire
+738;Tannsteinn
+739;Myllumerki
+740;Duggönd
+741;Ken Livingstone
+742;Lilja
+743;Skæll
+744;Hrossasótt
+745;Gagnhyggja
+746;Budimir Vujačić
+747;Listi yfir garðaberjategundir
+748;Einkaleyfi
+749;Shusaku Hirasawa
+750;Amelía
+751;Afþreying
+752;Eldvarp
+753;Minþakseyri
+754;Anne Rice
+755;Norður
+756;Karl Einarsson (eftirherma) - Heimsmeistaraeinvígið í skák í Laugardalshöll 1972
+757;Kóreustríðið
+758;Grét
+759;Ísabel
+760;Charles Baudelaire
+761;Raddbönd
+762;Samgöngusamningur
+763;Sigurþóra
+764;Dragonlance
+765;2010
+766;Búdapest
+767;Fiskabúr
+768;Maja litla - Erling Ágústsson syngur
+769;Rauða skikkjan
+770;Rigg
+771;Dynkur
+772;Stopmotion
+773;Theresa Caputo
+774;Gufuskálar
+775;Mebendasól
+776;Benni McCarthy
+777;Fortaleza
+778;Marcus Licinius Crassus
+779;Usain Bolt
+780;Fritillaria ruthenica
+781;1339
+782;Darya Dontsova
+783;Obscured by Clouds
+784;Beitarfiskur
+785;Vetrareik
+786;Ódysseifskviða
+787;Listamannaskálinn
+788;Þingmannanefnd til að fjalla um skýrslu rannsóknarnefndar Alþingis
+789;Ammóníak
+790;Framfaraatvinnuleysi
+791;Kristni
+792;1301
+793;Viljar
+794;Sigurgarðs saga frækna
+795;Ernst
+796;1. deild karla í knattspyrnu 1968
+797;Gautviður
+798;Goðalyklar
+799;Bónus
+800;Goðmundur
+801;Engey
+802;Jón Ragnarsson - Uss, ekki hafa hátt
+803;Gunnar Thoroddsen
+804;Lindakirkja
+805;Kjörtímabil
+806;Koltrefjar
+807;Blómstursaumur
+808;Njarðvíkurskriður
+809;Skjárinn
+810;Radivoje Manić
+811;Örvareynir
+812;Hrafntinna
+813;Vestur-Barðastrandarsýsla
+814;Grænlandsjökull
+815;Skerum hár vort í samræmi við sósialískan lífsstíl
+816;Geiger-teljari
+817;Hefðbundin indversk tónlist
+818;Nicolae Ceaușescu
+819;Vallakía
+820;Míla
+821;Handknattleikssamband Íslands
+822;Nanný
+823;Vætukarsi
+824;Söðulpunktur
+825;Stjórnin
+826;Teygjustökk
+827;Sölvhóll
+828;Ragnar og Þuríður syngja lög Jónatans Ólafssonar
+829;Simpson-fjölskyldan, þáttaröð 4
+830;Gufunes
+831;Yonten Gyatso
+832;Sorg
+833;Hrund Þórsdóttir
+834;Smáríki
+835;Tónskratti
+836;Fíton
+837;Þrúðvangur
+838;Choummaly Sayasone
+839;Santalum
+840;Hnikarr
+841;Super Bowl XLI
+842;George Marshall
+843;Bălțați
+844;Utanþingsstjórn
+845;Mons
+846;Toshio Miyaji
+847;Oliver Kahn
+848;CNN
+849;Pákur
+850;Tepoki
+851;Útsending
+852;Sigurður Jórsalafari
+853;NGC 4414
+854;Hassan Nasrallah
+855;Allium unifolium
+856;Snorri Björnsson
+857;Tony Iommi
+858;Strákatangi
+859;Purple Giraffe
+860;Shoemaker-Levy 9
+861;Misvísun
+862;Landafræði Íslands
+863;Freyja (aðgreining)
+864;Stout
+865;Malakkaskagi
+866;A cappella
+867;Valter
+868;Oddleifur
+869;Evrópukeppnin í knattspyrnu 1992
+870;Íslenskar þýðingar á erlendum kvikmyndaheitum
+871;Norðhvalur
+872;Usedom
+873;Ástralskur dalur
+874;Terry Gilliam
+875;Þormóðsslysið
+876;13. ágúst
+877;Söngtifur
+878;Ultimate 20
+879;Prófkvíði
+880;Húslestur
+881;Grindadráp
+882;Ástmar
+883;Skjávarp
+884;Ásætur
+885;Hajime Moriyasu
+886;Aþena (mannsnafn)
+887;Nesbraut
+888;Andrew Carnegie
+889;Köping
+890;Gaulverjabær
+891;Hokusai
+892;Salem (Massachusetts)
+893;Pyrrhon
+894;Oxford Classical Texts
+895;Faze Action
+896;Patrekshreppur
+897;Mini
+898;Fyrirboði
+899;1799
+900;Þorsteinn Eggertsson
+901;Októ
+902;BASICS-verkefnið
+903;Reykjavíkurflugvöllur
+904;Frank H. Knight
+905;Íþróttabandalag Reykjavíkur
+906;Aveiro
+907;Tokkarar
+908;Bergsveinn
+909;Grænserkur
+910;Offita
+911;Bernt Michael Holmboe
+912;Francis Ford Coppola
+913;Sigurjón Þ. Árnason
+914;Beygla
+915;Fjölgervi
+916;Abies bornmuelleriana
+917;Biskup Íslands
+918;Hasse Ekman
+919;Merseyside
+920;Framsöguháttur
+921;Antímon
+922;Tokizo Ichihashi
+923;Ýsa
+924;Peak ground acceleration
+925;Gvendarlaug í Bjarnarfirði
+926;Seljahnúta
+927;Buklari
+928;Kósi
+929;Iða
+930;Skálmarfjörður
+931;18. júlí
+932;Fasarit
+933;Fatboy Slim
+934;Marjorie Estiano
+935;Sjávarborgin
+936;Latíum
+937;Theophilus Carter
+938;Íslensk menning
+939;Elinóra Kastilíudrottning
+940;Björn Friðriksson
+941;Austurlönd fjær
+942;Martröð á Álmstræti 2: Hefnd Freddys
+943;Northrop N-3PB
+944;Styrkt vín
+945;Suðurnes
+946;Ametýst
+947;Hel
+948;Hamarsbúð
+949;Barcelona World Race
+950;.ge
+951;Signhildur
+952;Þórir
+953;Spænski fjársjóðsflotinn
+954;Safi
+955;Dragan Stojković
+956;Hallsteinn Sigurðsson
+957;Heyskapur
+958;Frosti Sigurjónsson
+959;Galíon
+960;Hallvör
+961;Nicolai
+962;.bh
+963;Málmfræði
+964;22. febrúar
+965;Squire Fridell
+966;Kerala
+967;Wallace Broecker
+968;Interahamwe
+969;Dorset
+970;Járnþríhyrningurinn (stjórnmál)
+971;Príor (titill)
+972;1441
+973;Farsóttarhúsið
+974;Físibelgur
+975;Ljósbrot
+976;Naypyidaw
+977;Grindahlaup
+978;Geirríður
+979;Analía
+980;Lalli Johns (kvikmynd)
+981;Gagnrýni hreinnar skynsemi
+982;Skálmarnes
+983;Sigurður Bjarnason
+984;Algín
+985;Vulcanus
+986;Andrew Jackson
+987;Álsey
+988;Rækjuvinnslan á Hólmavík
+989;Tómasarkver
+990;Landbúnaðarháskóli Íslands
+991;Vinnuafl
+992;Þjóðgarður
+993;Tágamura
+994;SOAP
+995;Sashimi
+996;Ljósbjörg
+997;18. desember
+998;Vor
+999;Seramhaf
+1000;Heidelberg

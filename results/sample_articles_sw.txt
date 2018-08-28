@@ -1,0 +1,1000 @@
+1;Sinza
+2;Luchili
+3;Esbjerg
+4;Lagny-sur-Marne
+5;Kisiwani (Wete)
+6;Orodha ya miji ya Austria
+7;Papa Agapeto I
+8;51
+9;Bob Joles
+10;1032 KK
+11;1401 KK
+12;Papa Innocent X
+13;Donge Kipange
+14;Woodmere, New York
+15;342 KK
+16;Kiwadaginam
+17;Kilemerig
+18;Uwanja wa ndege wa Mpanda
+19;1198
+20;Kiogajivu
+21;Mlima Migombe
+22;Helena Mtakatifu
+23;Shira
+24;105
+25;Kikumaoni
+26;Chati
+27;Tasnia ya muziki
+28;Rudewa
+29;Wilaya ya Alytus
+30;Wamahanji
+31;Acton, Massachusetts
+32;Hanau
+33;Dynamite Warrior
+34;The Nation (gazeti)
+35;Josh Tymon
+36;Tunza Issa Malapo
+37;Mlima Bridge
+38;Kiboano ya Maluku
+39;Slant Magazine
+40;282
+41;Kitunguu
+42;890 KK
+43;Katekisimu
+44;Yeniceoba
+45;Kiejamat
+46;Laurel Hollow, New York
+47;Cadillac
+48;Kiisaka
+49;Kelele
+50;Mto Chepkoisi
+51;Hippokrates
+52;Silikoni
+53;Mto Birirbei
+54;Kilopit
+55;Oldeani
+56;Mto Chebusi
+57;Kiwardandi
+58;Kikilo
+59;Ragnar Granit
+60;Gamal Abdel Nasser
+61;EH
+62;Kikroatia
+63;Jezi
+64;Mtowisa
+65;Mto Kinyach
+66;Kinyishi
+67;Unyevuanga
+68;Tbilisi
+69;Orodha ya viwanja vya ndege nchini Nigeria
+70;Jiangxi
+71;Milima ya Mwezi
+72;253 KK
+73;Shirikisho la Soka Kenya
+74;Kipei
+75;Kinakanai
+76;Mia nne na sitini na nne
+77;1261 KK
+78;Kikuanua
+79;299 KK
+80;Azimio la Dodoma
+81;Adam Carolla
+82;Wizara ya Maendeleo ya Mifugo na Uvuvi
+83;Kisondela
+84;Matale (Monduli)
+85;69
+86;Kiangika
+87;Kwaalinato
+88;Lugha za Kitor-Kwerba
+89;Kivengo
+90;Kinowe
+91;Karolo Mkuu
+92;Mikhail Glinka
+93;Tut, Turkey
+94;1704
+95;Kijah-Hut
+96;Chombo cha usafiri
+97;Sigmund Freud
+98;Flamenco
+99;Gary, Indiana
+100;Fatma Abdulhabib Fereji
+101;Mia tano na arobaini na sita
+102;Kikoro (Uhindi)
+103;Nsenkwa
+104;Majengo (Songea)
+105;Kiputoh
+106;Jimbo la Uchaguzi la Ugenya
+107;Herme
+108;Kirukanjia
+109;Mto Lubugwe
+110;EE
+111;8 Februari
+112;Mažeikiai
+113;1874
+114;Mto Nyakagera
+115;Giulio Natta
+116;Gervais Yao Kouassi
+117;Chuo Kikuu cha Harvard
+118;Mwandiko wa Kichina
+119;1915 KK
+120;Mto Nakwee
+121;1619 KK
+122;Kidera (Indonesia)
+123;Kimamba 'A'
+124;Mzee Majuto
+125;Huntington, New York
+126;Duke Henderson
+127;Pazaryolu
+128;Bamba la Australia
+129;Liturujia ya Ekaristi
+130;Mto Mbalageti
+131;Mto Kavahesi
+132;Nova Scotia
+133;Mkoa wa Zaragoza
+134;533
+135;Kipandauso
+136;Kutapika
+137;Michael Scofield
+138;Phyllis McGinley
+139;Mondo (mnyama)
+140;Kisam
+141;Oljoro No. 5
+142;Kidass
+143;Yunak
+144;Banaz
+145;Virusi ya Polio
+146;Utengule
+147;Mengistu Haile Mariam
+148;Ngoma ya Warangi
+149;Mikoa ya Bolivia
+150;Alfortville
+151;Mia tano na thelathini na tisa
+152;Mto Kaboswa
+153;Mto Tambari (Bungoma)
+154;Mto Naekitoenyala
+155;780
+156;Shirika za msalaba mwekundu na hilali nyekundu
+157;Mto Kaga
+158;Historia ya Morisi
+159;215
+160;909
+161;Wanyamapori
+162;Walongo
+163;John O'Keefe
+164;Gambia (mto)
+165;Alberto wa Pisa
+166;Nkoaranga
+167;Malwelwe
+168;Jimbo ya Skikda (Aljeria)
+169;Mr. & Mrs. Smith
+170;Kibakwe (Mpapwa)
+171;Kary Mullis
+172;Saint-Nazaire
+173;Wilaya ya M'Bahiakro
+174;Orodha ya mito ya kaunti ya Trans-Nzoia
+175;Mookane
+176;Abushiri ibn Salim al-Harthi
+177;Matemanga
+178;GV
+179;Casey Motsisi
+180;546 KK
+181;Mihret Abebe
+182;Urano
+183;Machata
+184;1285
+185;Wilaya ya Issia
+186;Özalp (District), Van
+187;Mto Atead
+188;Kitemiar
+189;Orodha ya lugha za Taiwan
+190;Mto Lobut
+191;Virgin Records
+192;Günyüzü
+193;Kibauzi
+194;Mlima Brave
+195;Nyamoko
+196;Auvergne
+197;Mbagala Kuu
+198;Mto Oke
+199;Visiwa vya Desventuradas
+200;Kiingria
+201;Kilevuka
+202;Qatar
+203;98
+204;Mabreka
+205;T.I.
+206;A Man of the People
+207;Kimaria (Papua)
+208;Guadalajara, Jalisco
+209;Kikaba-Naa
+210;Kinaga ya Ponyo-Gongwang
+211;James Wright (mshairi)
+212;Mto Kaupa
+213;Mandelieu-la-Napoule
+214;Mlondwe
+215;Siedah Garrett
+216;Don Gordon (Mwigizaji)
+217;1384
+218;Amuria
+219;DZ
+220;QZ
+221;Umimi
+222;Kixiri
+223;Orodha ya miji ya Kroatia
+224;1440
+225;Milenia ya 5 KK
+226;Nintendo
+227;Kisama ya Katikati
+228;Moroto
+229;Alama ya swali
+230;Mto Gombot
+231;Papa Innocent IV
+232;Kilahu
+233;Mto Ngano
+234;Waakie
+235;Miaka ya 910 KK
+236;Jimbo Kuu la Bujumbura
+237;Wilhelmshaven
+238;Mia saba sitini na nne
+239;1476
+240;Mia nane arobaini na moja
+241;1284 KK
+242;Kambarage (Mbinga)
+243;Mto Junju
+244;Miaka ya 1950
+245;Ambari
+246;Kisiar-Lak
+247;Bartolomeo Las Casas
+248;Ouangolodougou
+249;Clichy-sous-Bois
+250;Kietebi
+251;Papa Sixtus II
+252;Themi
+253;Loren Bouchard
+254;Kim Il-Sung
+255;Kikalao
+256;12 KK
+257;Yomra
+258;Mto Koiting
+259;Mia tano na thelathini na sita
+260;Tver
+261;Mbwawa
+262;Mabokweni
+263;Kinamuyi
+264;Sungura wa Kizungu
+265;Wilaya ya Kirinyaga
+266;Utaifa
+267;Meja Mwangi
+268;Mto Niarawasi
+269;Augustino wa Canterbury
+270;Mkoa wa Adıyaman
+271;Kimiao cha Huishui ya Kusini-Magharibi
+272;Mto Siwalo
+273;Kilolo
+274;Moses Wetangula
+275;Kaunti ya Elgeyo-Marakwet
+276;Burbank, Illinois
+277;Kibukat
+278;Ali Haji Ali
+279;Lot
+280;Utumizi Mzuri wa Dawa
+281;Plymouth, Minnesota
+282;Topazi
+283;Mto Rigoma
+284;Massy, Essonne
+285;Masuguru (Masasi)
+286;Mto Kigeri
+287;Phillemon Mikol Sarungi
+288;Daraja la Songwe
+289;Mwandishi
+290;Mkoa wa Bình Phước
+291;Mto Gindigindi
+292;Nyakahura
+293;Eindhoven
+294;Ahmadu Bello
+295;1700 KK
+296;Bukome
+297;Zaire
+298;Kimpade
+299;Kiyoy
+300;Tombo
+301;Ohio (mto)
+302;Arnavutköy (district)
+303;Wilaya ya Ibanda
+304;Keçiören
+305;Mkoa wa Kayanza
+306;Kimayi-Kulan
+307;Mia saba thelathini na saba
+308;Aliağa
+309;Kifam
+310;Meja
+311;Ciudad Acuña
+312;Kiserudung-Murut
+313;Tycho Brahe
+314;Konstantinopoli
+315;Runnin' (From tha Police)
+316;Butimba (Bunda)
+317;Njoro (Same)
+318;Dimitri Mendeleyev
+319;Mkoa wa Burgos
+320;Iramba (Bunda)
+321;Nyoka-miti Mweusi
+322;Oklahoma City, Oklahoma
+323;Nature of a Sista
+324;Mto Chemosusu
+325;Mto Olkeju Loolpong
+326;Mia moja na thelathini na mbili
+327;Uturuki
+328;Hudiksvall
+329;Mpepai
+330;Kicung
+331;East Newark, New Jersey
+332;Mkoa wa Điện Biên
+333;Stan Winston
+334;Port Bell
+335;Umoja, Sudan
+336;Korogwe (mji)
+337;Eire
+338;Vivumishi
+339;Kiidate
+340;Hagia Sophia
+341;Atanasi wa Aleksandria
+342;Elista
+343;1642
+344;Ukuta
+345;Lol (jimbo)
+346;Oakland, New Jersey
+347;Mto Engongo Enjore
+348;Pumeza Matshikiza
+349;Kurt Alder
+350;Nta ya sikio
+351;Kikyirong
+352;Mto Nyalala
+353;Chigongwe
+354;Juice
+355;Kolesteroli
+356;Kafue (mto)
+357;91 KK
+358;Orodha ya lugha za Kamboja
+359;Sefania
+360;Zico
+361;Mto Luiche (Kigoma)
+362;Kiusku
+363;337 KK
+364;1074
+365;Georges Pompidou
+366;Mahongole (Makambako)
+367;Mto Mingoti
+368;Silvan, Turkey
+369;Nondo (maana)
+370;Julius Kalanga Laizer
+371;Ikuti
+372;Fasihi
+373;Kialur
+374;Kilenje
+375;Mngeta
+376;Kiherero
+377;Kalmykia
+378;Mkonojowano
+379;Gabriel Mmole
+380;Kidegenan
+381;Machano Othman Said
+382;Micah Sanders
+383;Mazingara (Tanga)
+384;Papa Silvester III
+385;Kiladakhi
+386;Lupeta
+387;Mto Nsunda
+388;Demi Lovato
+389;Kiede-Nago-Manigri-Kambole
+390;Segwagwa
+391;Hempstead, New York
+392;Buhangaza
+393;Kikoorete
+394;Kibarranbinja
+395;Wilaya ya Nandi
+396;Kigunwinggu
+397;Kibahonsuai
+398;Mto Nanyiki
+399;Pazaryeri
+400;Mto Mkundi (Dodoma)
+401;Magara
+402;Marc Silk
+403;Ngonjera
+404;Mwamabanza
+405;Kiorang-Seletar
+406;Krisanto na Daria
+407;Burbank
+408;Kisuba
+409;Bamba la Uarabuni
+410;Ruaruke
+411;Kipenchal
+412;Kigimnime
+413;Yangwon wa Goguryeo
+414;Bourgoin-Jallieu
+415;Njinjo
+416;Kipaynamar
+417;Bahari ya Aktiki
+418;Louis Neel
+419;Mto Romanyo
+420;Khadija Hassan Aboud
+421;639
+422;Nkololo
+423;Maramba
+424;Mto Naiyenai Kororon
+425;Piran Mtakatifu
+426;Mto Ulio
+427;Beylikova
+428;QW
+429;1054 KK
+430;Watumishi wa Wagonjwa
+431;Kisahu
+432;Kadi karadha
+433;Kemerovo Oblast
+434;Cibitoke
+435;Kimodang
+436;Ikanga
+437;Majira ya baridi
+438;Jerry Zucker
+439;Ludewa
+440;Seligenstadt
+441;Breinigerberg
+442;Lu Xun
+443;Mto Liwale Makubwa
+444;Kituo cha umeme
+445;Mto Mupindi
+446;Kingombe (Afrika ya Kati)
+447;Mto Thoro
+448;Kisiwa cha Nabuyongo
+449;Kimale
+450;Halima James Mdee
+451;Salvador, Bahia
+452;Kujenga taifa
+453;1972
+454;Faraja Kotta
+455;Mlima Kosciuszko
+456;Milima Teffedest
+457;Kiphula
+458;783
+459;Don Riddell
+460;Mtipitipi
+461;Dakama
+462;Gararagua
+463;Mabolwe
+464;Simone de Beauvoir
+465;Pumu
+466;162 KK
+467;Mkoa wa Karuzi
+468;Jeanne d'Arc
+469;Mlima Iputa
+470;Salale
+471;David Blaine
+472;Sinagogi
+473;Kikelo
+474;Mungu ibariki Afrika
+475;Wakala
+476;Mfuko
+477;Mia saba themanini na tano
+478;1503
+479;Sumbawanga Vijijini
+480;Kiachang
+481;Kinshi
+482;Kidoutai
+483;Kindi Mrukaji
+484;Seherelela
+485;759
+486;Milima ya Kiganga
+487;Kisangasa
+488;Paramaribo
+489;Huduma ya Polisi wa Kenya
+490;Kundi la Ross
+491;1058 KK
+492;Mto Nyamindi
+493;Jimbo Katoliki la Musoma
+494;814
+495;Utenzi wa Gilgamesh
+496;Orodha ya Marais wa Kenya
+497;Mto Magutu
+498;Mkoa wa Copperbelt
+499;Eneo Bunge la Kipkelion
+500;San Nicolás de los Garza
+501;Mataifa ya G20 ya viwanda
+502;Kidole gumba
+503;Mkoa wa Eskişehir
+504;Namba za Kiroma
+505;494 KK
+506;9 Januari
+507;Orodha ya lugha za Tanzania
+508;Raymond Mwanyika
+509;Shimo jeusi
+510;Khwee
+511;Felisi wa Como
+512;Mto Chemogo
+513;Kiamis-Nataoran
+514;Sala ya Kanisa
+515;Arizona
+516;Ngurunguru
+517;Söderhamn
+518;Sui iuris
+519;Kitikar
+520;Charles Richet
+521;Gungu
+522;Tezi (meli)
+523;Maurizio Sarri
+524;NI
+525;Mto Kekele (Bungoma)
+526;Mto Pura Pura Kina
+527;Kiroria
+528;948
+529;Shule ya Upili ya Wavulana ya Starehe
+530;Mia saba themanini na nane
+531;Sasini
+532;Kiholu
+533;Kiabanyom
+534;Herman Van Rompuy
+535;Ronald Norrish
+536;854
+537;Mapinduzi ya Viwandani
+538;Uhusiano wa zigua na zulu
+539;Maziwani
+540;1835 KK
+541;Methali
+542;Kibitur
+543;Kimantsi
+544;Michiga
+545;Muziki wa dansi
+546;Kikaren ya Geko
+547;Biankouma
+548;Milima ya Nyarugongo
+549;869
+550;Mia nne na thelathini
+551;Rose Kamili Sukum
+552;Kaunti ya Wajir
+553;Iyogelo
+554;Tandangongoro
+555;Hamamözü
+556;Mto Kisamis (Kajiado)
+557;Kibambassi
+558;Kikucha
+559;1717
+560;Kichut
+561;Kizaysete
+562;Rio Grande do Sul
+563;Tambarare
+564;Uchaguzi wa Rais wa Marekani, 1904
+565;Kanisa Katoliki la Kigiriki la Belarus
+566;Manuel Neuer
+567;Kiyaweyuha
+568;424
+569;Kidogon, Toro So
+570;Luteni Kanali
+571;Brussels
+572;Kisafeyoka
+573;Kiwogeo
+574;Mto Kikunja
+575;Emin Pasha
+576;Masindi
+577;130
+578;1404
+579;Vedastus Mathayo Manyinyi
+580;Nagaland
+581;Riba
+582;837 KK
+583;Lake Como, New Jersey
+584;Mto Kokothowa
+585;1146
+586;Benedikto Yosefu Labre
+587;Mia tatu na ishirini na saba
+588;11 KK
+589;Kihusishi
+590;Johannes Diderik van der Waals
+591;Kiyalgawarra
+592;13 Desemba
+593;Gulumungu
+594;Dernière Minute
+595;Wasomali
+596;Miaka ya 1820
+597;Pierre Curie
+598;Nabil Dirar
+599;1789 KK
+600;Mto Birei
+601;Wilaya ya Embu
+602;Ukuaji wa binadamu
+603;335
+604;Mkoa wa Hà Giang
+605;Milima ya Kabuzora
+606;Uchaguzi wa Rais wa Marekani, 2016
+607;Dola la Papa
+608;Benetice (Světlá nad Sázavou)
+609;Magaga
+610;1466 KK
+611;Middlepits
+612;Miaka ya 1600 KK
+613;Kitanahmerah
+614;Leguruki
+615;Igalla
+616;Isaac Amani Massawe
+617;289 KK
+618;Baisikeli
+619;Slidell, Louisiana
+620;Busi
+621;Kiawyu ya Edera
+622;Amina Iddi Mabrouk
+623;KQ
+624;Bay City, Michigan
+625;Valence, Drôme
+626;Azdavay
+627;Makemo
+628;Dan Shechtman
+629;Tommy Tedesco
+630;Union City, New Jersey
+631;Orhaneli
+632;Chris Brown (albamu)
+633;Mtamaa
+634;Mto Mabateni
+635;Ebenezer Obey
+636;Ziwa Sagara
+637;Kinias
+638;Mto Nagola
+639;Gonave
+640;Kieran Trippier
+641;Kanyuambora
+642;Tetemeko la ardhi
+643;Kiangor
+644;Mohammed Abdi Abdulaziz
+645;Bahari kuu
+646;Nabii Zekaria
+647;Jina la kisanii
+648;868 KK
+649;Nabii Baruku
+650;Mbizi
+651;Bronzi
+652;Pembe (anatomia)
+653;Nevado del Ruiz
+654;Nyihogo
+655;Alès
+656;Majivuno
+657;70
+658;Kanisa la Armenia
+659;805 KK
+660;Ulanzi
+661;Mfiadini
+662;Kianimere
+663;Mkoa wa Sinai Kusini
+664;Shota Rustaveli
+665;Kipiti
+666;Kikanuri-Tumari
+667;Ifakara
+668;Kigaa
+669;Columbia
+670;Middletown
+671;Shabaka
+672;Mto Kaboson
+673;Pierre de Fermat
+674;Kampuni ya Viatu ya Hanover
+675;Érick Gutiérrez
+676;Papa Dionysius
+677;Kikoongo
+678;Paji la uso
+679;Deuil-la-Barre
+680;Rungwe (wilaya)
+681;Ukristo nchi kwa nchi
+682;Hans Fischer
+683;Mto Lawawet
+684;Mto Mwanga
+685;Ukanda wa Gaza
+686;Mto Mlinyi
+687;Jimbo ya Ghardaïa (Aljeria)
+688;John F. Kennedy
+689;Mkoa wa Ōita
+690;Uwanja wa Ndege (Serengeti)
+691;Orodha ya mito nchini Tanzania
+692;Loures
+693;Kashishi (Kahama)
+694;1413
+695;Ndwindwi
+696;Mabibo
+697;585
+698;Moma
+699;Miaka ya 400
+700;Nduguti
+701;Bamba la Afrika
+702;Mmathethe
+703;Orodha ya mito ya kaunti ya Migori
+704;Grand Theft Auto III
+705;Randy Schekman
+706;Kinaga ya Rengma-Kaskazini
+707;Homa ya ndengi
+708;Kanisa la Kisiria la Kiorthodoksi la Malankara
+709;Kigoma Vijijini
+710;Papa Silvester I
+711;Ahmed Musa
+712;Malighafi
+713;1644 KK
+714;Jimbo Katoliki la Moshi
+715;Historia ya Ugiriki
+716;221 KK
+717;Elfu moja na sitini
+718;Wamersedari
+719;Transkei
+720;Mlima Idunda
+721;Wandonde
+722;Ogopa Deejays
+723;Palmerston North
+724;Simba
+725;Mto Ngono
+726;JN
+727;Mbuyu
+728;Kiitneg-Inlaod
+729;Kinete
+730;Kimasela ya Kati
+731;Mkoa wa Kütahya
+732;Sitini na tatu
+733;Because of You (albamu ya Ne-Yo)
+734;48 KK
+735;Uchaguzi wa Rais wa Marekani, 2008
+736;Marashi
+737;Jan Oort
+738;Naqil Yasleh Peak
+739;Sanaa
+740;Kimafa
+741;Kochi, Kochi
+742;Bandung
+743;John Patrick (mwandishi)
+744;Magonjwa ya macho
+745;Historia ya Cabo Verde
+746;Ebitoke
+747;Efeso
+748;Topisi
+749;Muda sanifu wa dunia
+750;Kearny, New Jersey
+751;Breyten Breytenbach
+752;1810
+753;Mto Embaleki
+754;Bugwema
+755;Cluny
+756;Make Me Better
+757;Kituwuli
+758;Turhal
+759;Zainab Amir Gama
+760;Makao makuu
+761;Papa Hyginus
+762;Julius Lothar Meyer
+763;Ubungo
+764;Mto Narungombe
+765;Mkoa wa Siirt
+766;Mto Runone
+767;Mto Kipsonoi
+768;Kilangali
+769;Mi
+770;Mvua ya mawe
+771;Maadili ya Kimungu
+772;1454
+773;Risala
+774;Mto Naiborr Enterit
+775;Kitofanma
+776;24 (mfululizo wa TV)
+777;Sala ya mchana
+778;Mandera (Bagamoyo)
+779;Milima Amaro
+780;Kiuda
+781;Tupa (nyoka)
+782;Modena
+783;Damietta
+784;Weymouth, Massachusetts
+785;Croix, Nord
+786;Masukulu
+787;Mia tisa themanini na tatu
+788;Nshakashokwe
+789;1952
+790;Mto Kiserian
+791;Şenpazar
+792;Yosepher Ferdinand Komba
+793;Sèvres
+794;Kisasili
+795;Vladimir Prelog
+796;Mto Lilehangule
+797;Mto Etebusait
+798;Ulaş
+799;Somalia ya Kiitalia
+800;Mbuzini
+801;Pachelbel's Canon
+802;Mto Nanyaga
+803;Serikali ya Víchy
+804;843
+805;1686 KK
+806;1597
+807;Papa Viktor III
+808;Makanda (Manyoni)
+809;Watawala wa Kenya
+810;1907 KK
+811;Munir El Haddadi
+812;Kiwango cha kuchemka
+813;Candler-McAfee, Georgia
+814;2 Novemba
+815;Mmashoro
+816;Kipenan-Magharibi
+817;QB
+818;Ziwa Edward
+819;Konstanz
+820;Inhambane
+821;Nieky Holzken
+822;Mlima Tahan
+823;Ngulilo
+824;Mto Enagum
+825;92 KK
+826;Uchaguzi wa Rais wa Marekani, 1956
+827;PW Botha
+828;Mivinjeni
+829;Tabia
+830;Mia saba sabini na tano
+831;Castor Raphael Ligallama
+832;NK
+833;Mwashikumbili
+834;Kofi Annan
+835;Mto Laga Danabale
+836;Mkoa wa Nyanza
+837;San-Pédro
+838;William Tanui
+839;All Bout U
+840;Kilaalaa
+841;Hestia
+842;Ikobe
+843;Saikolojia ya elimu
+844;Sebleni
+845;Maktaba ya Aleksandria
+846;Nyambizi
+847;Makampuni Memba (Soko la Hisa la Nairobi)
+848;Oriol Romeu
+849;Huntsville, Alabama
+850;Ulewe
+851;AJ
+852;Kimander
+853;1238
+854;John Venn
+855;Boma (Mafinga)
+856;Chitete (Mbozi)
+857;28 KK
+858;Mto Piliwa
+859;Ulezi
+860;Miaka ya 270 KK
+861;Mudhihir Mohamed Mudhihir
+862;3 Desemba
+863;1869
+864;Umbo
+865;Kicuvok
+866;Mto Napas
+867;Wilaya ya Tanda
+868;Jada Pinkett Smith
+869;Mto Marchaui
+870;Uruapan, Michoacán
+871;Mto Natumamong
+872;Kina
+873;Mia mbili arubaini na nane
+874;Mia saba thelathini na tisa
+875;John Quincy Adams
+876;Kiningera
+877;Kiluang
+878;Mnazi (mti)
+879;Asia Ndogo
+880;D.L.M Records
+881;Mvomero (wilaya)
+882;Dola la Ghana
+883;Ndama (Karagwe)
+884;Ajuza
+885;Pangaia
+886;Filderstadt
+887;Aberdeen
+888;Shoro
+889;Ziwa Savwa
+890;Kibiete
+891;Historia ya Guinea-Bissau
+892;Mto Kelema
+893;768
+894;Mikrolita
+895;Elfu moja na hamsini na tatu
+896;Amina Nassoro Makilagi
+897;Mto Soree
+898;Mlima Pico
+899;Madilu System
+900;Mubende
+901;Syosset, New York
+902;Tiberius
+903;Nicole Scherzinger
+904;Radi (elementi)
+905;Kiguya
+906;Kemgesi
+907;Blackheads
+908;Miaka ya 260 KK
+909;Uislamu nchini Madagascar
+910;Duke Ellington
+911;Kibine
+912;Uthman ibn Affan
+913;Ubertino wa Casale
+914;1287
+915;Kapcherop
+916;Etna
+917;Mto Lokwamur
+918;Mto Makunguwiro
+919;Twitter
+920;537
+921;Kipalula
+922;Dafu (Siri ya Mtungi)
+923;Maalon
+924;Timu ya Taifa ya Kandanda ya Afrika Kusini
+925;Robert Wangila
+926;Miaka ya 30
+927;Florence, Alabama
+928;Naftali (babu)
+929;Tematangi
+930;Robert Penn Warren
+931;Mkoa wa Yalova
+932;Miaka ya 1330
+933;Mto Kalorith
+934;Algiers
+935;Mia mbili na tisini na saba
+936;1195
+937;Marcel Pagnol
+938;Mto Kamakuywa
+939;Mto Kapai (Samburu)
+940;Kinambya
+941;Mto Tuktuk (Nandi)
+942;Mto Lagh Bogal
+943;Kimapena
+944;Tetemeko la ardhi la Kagera 2016
+945;Kimape
+946;Leo Tolstoy
+947;Mto Losesia
+948;Go-Reizei wa Japani
+949;Ruvu Remiti
+950;Tufanbeyli
+951;Robert Frost
+952;Mto Kalotiman
+953;Kindu
+954;Monito
+955;Kitala
+956;2046
+957;Kikurux ya Nepali
+958;Korongoni
+959;Bellerose Terrace, New York
+960;Lagana
+961;Eynesil
+962;Wafaranki
+963;Mamba
+964;227
+965;Mto Kiptoisarorr
+966;Mkamba
+967;388 KK
+968;’s-Hertogenbosch
+969;Anamudi
+970;Litisha
+971;Kuingiza historia mpya
+972;Gönen
+973;Mbalamaziwa
+974;Mia tano na hamsini na sita
+975;Krakov
+976;Kirang
+977;Mitume Petro na Paulo
+978;Bendera ya Poland
+979;Mchangani
+980;Mnekachi
+981;Fuwawe
+982;Mto Kikandi
+983;118 KK
+984;Mto Aburutin
+985;Pendik
+986;Kimalol
+987;Kiisirawa
+988;Vitenzi vishiriki vipungufu
+989;Malawi (maana)
+990;Bukumbi
+991;Ridhiwani Jakaya Kikwete
+992;Wilaya ya Pemba-Metuge
+993;Wilaya ya Kouto
+994;Mto Mimbi
+995;Zaanstad
+996;Sangay
+997;East Rutherford, New Jersey
+998;Dieburg
+999;1761
+1000;Clinton, Mississippi

@@ -1,0 +1,1000 @@
+1;Gammelgarns kyrka
+2;Cordón del Coquimbito
+3;Odontarthria ochrivenella
+4;Bori Khwar
+5;Desa Ngrame
+6;Spilomyia fusca
+7;Nidahasgama West
+8;Trachelas niger
+9;Shēlah-ye Kōrq
+10;Occidryas dwinellii
+11;Pedagogiskt utvecklingscentrum Dalarna
+12;Ābune Yosēf
+13;Moulsoe
+14;Jabal Jiddat al ‘Ulā
+15;Pseudostigma
+16;Adin Bukva
+17;Quebrada Mamana Huayco
+18;Cerro Muruaque
+19;Conistra auronigra
+20;Nob Island (ö i Antarktis)
+21;Sabine Heß
+22;Dischidesia hypochrysa
+23;Aroa abalia
+24;Phyllachora tricuspidis
+25;Menenches atropos
+26;Schaefferia frutescens
+27;Kukinka
+28;Quo
+29;Kird-ī Hābū
+30;Tacacoma (kommun)
+31;Hypericum pringlei
+32;Lac Cazaux
+33;Horch el Houaït
+34;Shanwei Jiao
+35;Albion (ort i Mauritius)
+36;Mayo Djoutalédé
+37;Ambalabe
+38;Ungdomsråd
+39;Lim Hyo-jun
+40;Weliwatta
+41;Oued el Rhirane
+42;Vermilia squamosa
+43;Bells Beach
+44;Mursmalbi
+45;Cashiella atra
+46;Phyllanthus pachyphyllus
+47;Hikkallu Betta
+48;Camponotus basuto
+49;Scrophularia spinulescens
+50;Schizonycha insularis
+51;Nebrioporus vagrans
+52;Lars Sandberg
+53;Chien d’artois
+54;Cerro Tres Cruces (berg i Chile, Región de Los Ríos)
+55;Los Berrendos
+56;Big Rapids (fors i Kanada, Nova Scotia)
+57;Pālūru Estate Forest
+58;Unaspis emei
+59;Kuh-e Haft Khani
+60;Rūdkhāneh-ye Āb-e Bārīk
+61;Sånger ur Trähatten 1982–2000
+62;Argaki ton Villourkon (periodiskt vattendrag i Cypern)
+63;Dal Lake (sjö i Kanada)
+64;Lac Goyot
+65;Ceroxys laticornis
+66;Punta Maragallo (udde i Spanien, lat 28,45, long -16,27)
+67;Orerī Minor
+68;Taojiang
+69;El Sombrero (kulle i Chile)
+70;Monahan Island (ö i Kanada, Nova Scotia, lat 44,85, long -62,52)
+71;Kūh-e Pol-e Nāranj
+72;Verrucaria amphibia
+73;Lendrum Creek (vattendrag i Kanada, British Columbia)
+74;Ficus praestans
+75;Dracophyllum strictum
+76;Sorgbeyee
+77;Arctornis phrika
+78;Miroslav Krleža
+79;Brågarps kyrka
+80;Port Turton
+81;Orrmosjön
+82;Phou Phan (berg i Vientiane)
+83;Ranunculus malinovskii
+84;Plogonnec
+85;Birsay Bay
+86;San Antonio (ort i Mexiko, Guerrero, Iliatenco)
+87;Mathias Ranégie
+88;Marphysa orensanzi
+89;Tang-e Barkeh
+90;Encarsia opulenta
+91;Villota del Páramo (kommun)
+92;Tavenu Creek (vattendrag, lat -17,62, long 178,50)
+93;Blue Mountains (bergskedja i Kanada, Nova Scotia)
+94;Refrolix tralangensis
+95;Cecilia Olsson
+96;Bonou (olika betydelser)
+97;Dutula Uulunga
+98;Cerro Platero (berg i Mexiko)
+99;Bellocq
+100;Tonggukeng Shuiku
+101;Bankinspektionen
+102;Bocksboda
+103;Ōbō Nāw Sar
+104;Mount Lethbridge
+105;Córrego da Onça
+106;Kellerberg
+107;Lago Pellaifa
+108;Eustenogaster bicarinatus
+109;Mycosphaerella verrucosiafricana
+110;Pselliophora praefica
+111;Parque Etxebarria
+112;Phyllostachys stimulosa
+113;Dayat Ould Abboues
+114;Miller 200 1998
+115;Leucopholis pangiena
+116;Ridleyandra latisepala
+117;Nagbé (vattendrag i Kamerun, lat 3,50, long 11,20)
+118;Cerro El Jerry
+119;Trachystolodes tonkinensis
+120;Anubis inermis
+121;Darma La (bergspass i Kina)
+122;Kelurahan Panggung
+123;Qi Shan
+124;Bajacalia
+125;Chelonus subcontractus
+126;Sankt Johannes kyrka, Landskrona
+127;Utunquila
+128;Cerro Palique
+129;Koma (kulle i Elfenbenskusten, lat 8,12, long -6,51)
+130;Sericolea coodei
+131;Shandja
+132;Sankt Koriakos syrisk-ortodoxa kyrka, Västerås
+133;Kasakaw
+134;Xochiapa
+135;Lac des Ventres Rouges (sjö i Kanada, Outaouais)
+136;Phorbas frutex
+137;Bagropsis reinhardti
+138;Port Kriulyani
+139;Chabet Azaouch
+140;Wŏn-san (kulle i Nordkorea, Södra P'yŏngan, Sukch'ŏn-gun)
+141;Reedy Creek (vattendrag i Australien, Victoria, lat -37,67, long 149,13)
+142;Phloeophila yupanki
+143;Asphondylia celsiae
+144;Université de Liège
+145;Tokunagaia tonollii
+146;Pjotr Krasnov
+147;Lagoa Sisita
+148;Norra centralprovinsen
+149;Krokatjärnen, Norrbotten
+150;Leuctra sipahilerae
+151;Sorgen och glädjen
+152;Qaşr-e Shīrīn
+153;Shēlah-ye Nahrānī
+154;Digitalis davisiana
+155;Mount Wild (berg i Antarktis, lat -64,21, long -58,87)
+156;Solanum lobbianum
+157;Epicrates striatus
+158;Pogonorhinella madagascariensis
+159;Synbranchus madeirae
+160;Rinorea whytei
+161;Hell Island (ö i Kanada)
+162;Neomegastigmus filius
+163;Duolandrevus ivani
+164;Telmatherinidae
+165;Rocknest Bay
+166;Phratora laticollis
+167;Förstakammarvalet i Sverige 1917
+168;Kharījat al Ḩārith
+169;Rowley Hill
+170;Mount Dewar (berg)
+171;Trogloiulus vailatii
+172;Jåtalamp
+173;Tizi n' Bou Feddouz
+174;Pseudaphelia mannowiana
+175;Peñasco Amarillo
+176;Coquitlam
+177;Katongatonga
+178;Kuntung Impit
+179;Agalliopsis fuscosignata
+180;Amerila piepersi
+181;Leucetta villosa
+182;Damjanitsa
+183;Jabal Gharamūl
+184;Girlsmen
+185;Anacroneuria co-1
+186;Dezāvar
+187;Polytaenium chlorosporum
+188;Barranca Babaroco
+189;Ammoúdhia
+190;Aïn el Djreb
+191;Pareurythoe californica
+192;Le Héron
+193;Shusuke Kaneko
+194;Symmetri
+195;Serra do Gonçalo (kulle)
+196;Lac Wendigo
+197;Desa Citeko Kaler (administrativ by i Indonesien, lat -6,64, long 107,37)
+198;Sphagnum antioquiense
+199;Quarto Banabu Island
+200;Koudia Dabboub
+201;Cordón del Diablo (bergskedja i Chile)
+202;Helicoma dennisii
+203;Aeolochroma modesta
+204;Most Wanted
+205;Lonchaea andina
+206;Gob Squad
+207;Camel Island (ö i Australien)
+208;Rodolfo Fierro
+209;Thyreus rufitarsus
+210;Psectrogaster rutiloides
+211;Kururu
+212;Hadromyia pulchra
+213;Popillia timoriensis
+214;Enicosanthum klemmei
+215;Mesochorus intonsus
+216;Diplotaxis aurata
+217;Syntormon smitnovi
+218;Lac England (sjö i Kanada, Abitibi-Témiscamingue)
+219;Parornix concussa
+220;Cynanchum roylei
+221;Dicladocera riveti
+222;Chamleh (ort i Khorasan)
+223;Darah-ye Şūf-e Bālā
+224;Fusarium concentricum
+225;Exalloniscus maschwitzi
+226;Ensenada Teopa
+227;Daehyeon-dong
+228;San Gregorio (ort i Mexiko, Oaxaca)
+229;Parietaria erronea
+230;Klippholmen
+231;Gogerly Island (ö i Australien, lat -32,28, long 152,50)
+232;Nusa Bacak
+233;National Rail
+234;Eddie Quillan
+235;Musāin Tāl
+236;Ole Rothenborg
+237;Huhtasaari (ö i Birkaland, Södra Birkaland)
+238;Lac Faillard
+239;Lemonia sauberi
+240;Tsāngār Darah
+241;Koltjärn
+242;Barranco de la Parra
+243;Quebrada Sardinagrande
+244;Quebrada Queñuavichinca
+245;Peilstein (berg i Österrike, Niederösterreich)
+246;Cerro Mangalluta
+247;Discovery Bay (vik i Kanada, Ontario, lat 50,40, long -87,10)
+248;Sumpmikromossa
+249;Carrizal Bajo
+250;Rivière Blue Sea
+251;Râs Bou Marouane
+252;Adzougo
+253;Klarevatten (Spekeröds socken, Bohuslän)
+254;Mysidia nemorensis
+255;Ancistrocerus ebusianus
+256;Cockle Bay (vik i Kanada)
+257;Glossocratus chinensis
+258;Wolo Ngusu
+259;Stolonica carnosa
+260;Kors (tecken)
+261;Alchemilla sirjaevii
+262;Tappah Sūr
+263;Hollis, Oklahoma
+264;Bois d'Empéhi
+265;Chula Dhār
+266;Siegendorf
+267;Ottekil
+268;Golo Brdo (berg i Kroatien, Šibenik-Knins län)
+269;Boquiapa
+270;Mauno
+271;Billingham
+272;Kilkieran Bay
+273;Dione butleri
+274;Desa Kentong (administrativ by i Indonesien, Jawa Timur)
+275;Maxwellia santarosana
+276;Heydoniella sarawakensis
+277;Aramayo
+278;Stelis silverstonei
+279;Gwageijae
+280;San Pablo Etla
+281;Parevia gurma
+282;Patricia Wettig
+283;Acrhelia horrescens
+284;Mafamen
+285;Exocoetus obtusirostris
+286;Mīān Kōh (berg i Helmand, lat 32,56, long 64,55)
+287;Anosia klugii
+288;Dioctria concoloris
+289;Darreh-ye Mozteh
+290;Number Four Dam (dammbyggnad i Australien, Northern Territory, Barkly, lat -21,71, long 137,92)
+291;Cerro Lupera
+292;Kroppkakor
+293;Mbom
+294;Pseudolampona taroom
+295;The Troggs
+296;Bibio jinggangensis
+297;Another Mind
+298;Ventisquero Francés
+299;Borboropactus silvicola
+300;Thil
+301;Rusty Lake (sjö i Kanada, Ontario, Algoma)
+302;Iso-Musti
+303;Ocotea vaccinioides
+304;Siccia adiaphora
+305;Henrik Krummedige
+306;Processa wheeleri
+307;Komuna e Kodër Thumanës
+308;Salo Lompoe (vattendrag i Indonesien, lat -4,05, long 119,65)
+309;Friedrich Kluge
+310;Adriers
+311;Dengjia
+312;Kärrmaräng
+313;Robertson River (vattendrag i Kanada, Nunavut)
+314;Metadiplodia eucalypti
+315;G8-mötet 2005
+316;Annamanum irregulare
+317;Banj
+318;Mautern in Steiermark
+319;Södra Barken
+320;Cyathea societarum
+321;Råspont
+322;Khallat Na‘mah
+323;Ardjat et Touila
+324;Paracilicaea septemdentata
+325;Angoka
+326;Graptoppia nukusia
+327;Gilberts Point (udde i Kanada, Newfoundland och Labrador)
+328;Arroyo Caracoli (periodiskt vattendrag)
+329;Birling Carrs
+330;Eulepida reichei
+331;Willemien Aardenburg
+332;Jogisil Pahār
+333;Lago Paricá
+334;Trichocera alticola
+335;Desirée
+336;Cerro Santa Rosalia (berg i Mexiko, Coahuila)
+337;Mount Rhino
+338;Shinghazī Das̲h̲tah
+339;Besleria patrisii
+340;Diakoni
+341;Stomatium meyeri
+342;Hansudŏk
+343;Empanda ornata
+344;Lomographa polydamnaria
+345;Marocaulus impressicollis
+346;Hŭngdŏk-san
+347;Tafa (dal)
+348;Ibirité (olika betydelser)
+349;I Love the '80s
+350;Strengen (kommunhuvudort)
+351;Greda (bergspass)
+352;Lee Cronbach
+353;Hemithyrsocera amplectens
+354;Mount Wooroolin
+355;Ragoubet Tchab
+356;Pachira rupicola
+357;Thaumatopsyllidae
+358;Euproctis leucorhabda
+359;Cladonota inflatus
+360;Oued Cherchour (wadi i Algeriet)
+361;Mermessus moratus
+362;Hiskonsaari
+363;Viktor Putjatin
+364;Agapetus celatus
+365;Perivóli (ort i Grekland, Joniska öarna)
+366;Selaginella albociliata
+367;Arroyo Los Ranchos (periodiskt vattendrag i Dominikanska republiken, Monseñor Nouel)
+368;Pseudogerda filipes
+369;Soubise
+370;Corrie Dam (dammbyggnad i Australien, Franklin Harbour)
+371;Maurice Blanchot
+372;Oxystelma esculentum
+373;Odontosoria deltoidea
+374;Erebia gnathene
+375;Eteone tocantinensis
+376;Baaz
+377;Marocko i olympiska sommarspelen 2016
+378;Jóhann Berg Guðmundsson
+379;Jonas Bergström
+380;Daniel Benedicti Ekerman
+381;Noyal-Châtillon-sur-Seiche
+382;Dick Axelsson
+383;Borova Kosa (utlöpare)
+384;Sleeman Creek (vattendrag i Australien)
+385;Spilosoma brandti
+386;Ci Bacang (vattendrag i Indonesien, lat -6,78, long 108,51)
+387;Aphroceras alcicornis
+388;Cecidostiba atra
+389;Handskholmen
+390;Leandra steyermarkii
+391;Sweetwood Ridge
+392;Mont Sky
+393;Vattarnes
+394;Flarchheim
+395;Angerville, Essonne
+396;Armstrong Park (park i Australien, New South Wales, lat -32,90, long 151,70)
+397;Berg Sokkesson
+398;Canal Perrin
+399;Posthornssnäckor
+400;Scoloplax dicra
+401;Jason Chen
+402;Lutzomyia texana
+403;Mata de Catonco
+404;Tulūl al Maqāţi
+405;Chastot Creek
+406;Reach
+407;Dlaboki Dol (vattendrag i Makedonien, Opsjtina Sveti Nikole)
+408;Yaourgui
+409;Bergshyddan
+410;Tilles Lake
+411;Gråharu Fjärden
+412;Dacnusa jakutica
+413;Jos Wiggins Park
+414;Shangjing Shuiku
+415;Chuji-bong
+416;David Urquhart
+417;Rickard Rakell
+418;Persikeplommon
+419;Ghulan Protected Forest
+420;The Fighter
+421;Karlsviks Fabriker
+422;Jazīrat al Ma‘āmil
+423;Anton Fokin
+424;Gränsmärke
+425;Dichaetomyia latifrons
+426;Antipodectes monteithi
+427;Rune Wall
+428;Lungui (vattendrag i Kongo-Kinshasa, Katanga, lat -7,68, long 25,46)
+429;Margareta Almlöw
+430;Bulathsinhala Division
+431;Bukiri Bulo
+432;Metacirolana agujae
+433;Tachina jawensis
+434;Proasphondylia
+435;Cerotelium
+436;Rhytidortalis solocifemur
+437;Bouzillé
+438;Mananonoka
+439;Schonungen
+440;Lompama
+441;Yesud HaMa‘ala
+442;Dodd Nunatak (nunatak i Antarktis, lat -71,83, long 160,40)
+443;Excenevex
+444;Weixi (köping i Kina, Chongqing)
+445;Komiska förvecklingar på Djurgården i Stockholm
+446;Euphorbia biaculeata
+447;Milošević
+448;Bibeln (olika betydelser)
+449;Gradina (kulle i Bosnien och Hercegovina, Federationen Bosnien och Hercegovina, lat 43,93, long 17,54)
+450;Diospyros aculeata
+451;Baeus rufus
+452;Panilkanda
+453;Djalmabatista director
+454;Alfred Bieler
+455;Sympiesis ancylae
+456;Aleksandra Potanina
+457;Osynliga Universitetet
+458;Stelis cleistogama
+459;Mettendorf
+460;Perilampsis formosula
+461;Bleptina flaviguttalis
+462;Ćuršijevac
+463;Peckolus poenskopius
+464;Bébé
+465;Trifolium physodes
+466;Corambe pacifica
+467;Perata curiosalis
+468;Pterocallis montanus
+469;Nazirov Argač
+470;Saddle Hill (kulle i Kanada, Newfoundland och Labrador, lat 47,45, long -52,71)
+471;Förste sergeant
+472;Ulvikssjön
+473;Vanden Plas (bil)
+474;Gynacantha rotundata
+475;Crocodilopolis (fornlämning i Egypten, Qena)
+476;Chrysotus verecundus
+477;Byrsonima melanocarpa
+478;Punta Stuardo
+479;Binodoxys hyperomyzi
+480;Moore Lake (sjö i Kanada, Ontario, Thunder Bay District)
+481;Petrorhagia graminea
+482;Percy, Isère
+483;Omanolidia keiferi
+484;Erland Nordlund
+485;What is Love?
+486;Candida ethanolica
+487;Schizonyxhelea
+488;Malaindi Minor
+489;Othis
+490;Långtjärnen (Lycksele socken, Lappland, 717701-159927)
+491;Phyllonorycter lalagella
+492;Jiedi Jianhe (dräneringskanal)
+493;Sigmoria kleinpeteri
+494;Pacaça
+495;Walckenaeria serrata
+496;Zenaida
+497;Kotjärnen (Leksands socken, Dalarna)
+498;Cañada San Jose
+499;Khanewal
+500;Neocorynura dittachos
+501;Astrocoeniidae
+502;Fofenhubel
+503;Östra Lägnorna
+504;Lac International
+505;Tryckutjämning
+506;Ethan Phillips
+507;Maxillaria huancabambae
+508;Riacho do Piau
+509;Långtjärnet (Eda socken, Värmland, 663885-131314)
+510;Eduard Schönfeld
+511;Dikan Xiang
+512;Entedon pecki
+513;Rhaphuma clermonti
+514;Bœuf bourguignon
+515;Oregons flagga
+516;Aïn Tiririt
+517;Aïn Areg
+518;Cortinarius inconspicuus
+519;Ballymena
+520;Tin Creek (vattendrag i Guyana)
+521;L'Anse (vik i Kanada, Québec, lat 45,32, long -73,85)
+522;Månteatern
+523;Kūh-e Sīlūm
+524;Asian Kung-Fu Generation
+525;Nephrotoma praecipua
+526;Centralfåran
+527;Cañada los Corozos
+528;Ouâdi Aatoui
+529;Emmeloord
+530;Ignacio Zaragoza 1ra. Sección
+531;Río Churuyaco
+532;Río Tío Mayo
+533;Dédatilamé
+534;Ruisseau Sharp
+535;Bob Crewe
+536;Shoal Bay (vik i Australien, Western Australia, lat -16,43, long 124,23)
+537;Rhinocricus sanguineostriatus
+538;Wilhelm av Wied (1845–1907)
+539;Tephrina melesignaria
+540;Blackwater River (vattendrag i Kanada, Ontario)
+541;Lac Ventouse (sjö i Kanada, lat 47,69, long -76,93)
+542;Riachuelo de Ciracil
+543;Shegeng (sockenhuvudort i Kina, Jiangxi Sheng, lat 28,44, long 116,66)
+544;Alangium kwangsiense
+545;Al Majannah
+546;Habrotrocha munda
+547;John C. McGinley
+548;Gokango
+549;Annatiara lempersi
+550;Hyŏngje-hyŏn
+551;Pericampylus macrophyllus
+552;Notophycis marginata
+553;Karandaka
+554;Mejinovo Vrelo
+555;Apium leptophyllum
+556;Ruisseau des Grenouilles
+557;Vangunu
+558;Gamla posthuset, Hedemora
+559;Cheshmeh-ye Nākām
+560;Pointe Fraser
+561;Aïn Gouttai
+562;Digitaria incisa
+563;Chabet Ain Kouir
+564;Ctenucha reducta
+565;El Chupadero (ort i Mexiko, Michoacán de Ocampo, Maravatío)
+566;Qabīlat Abū Zummīt
+567;Pyrgacris descampsi
+568;Teluk Airmati
+569;Tecongo II
+570;Kirk Acevedo
+571;Asplenium wacketii
+572;Vitstrupig bågnäbb
+573;Eptatretus atami
+574;Syväjärvi (sjö i Finland, Lappland, lat 67,28, long 25,93)
+575;Eunephrops bairdii
+576;Aulocyathus matricidus
+577;Kūh-e Nestān
+578;Forsla fett
+579;Carios reddelli
+580;Sincan
+581;Otto Barnewald
+582;Koudyet Rou Salem
+583;Cheshmeh-ye Şoḩneh Bolāghī
+584;Börjesjön
+585;Liberia i olympiska sommarspelen 2000
+586;Phytolacca sanguinea
+587;Córrego Fundão (vattendrag i Brasilien)
+588;Halvljus
+589;Epeolus vinogradovi
+590;CI. Armeekorps
+591;Kāl-e Dahaneh Ţāqī
+592;Nyuragyukh, Azerbajzjan
+593;Île à Sophie
+594;Pallenopsis patagonica
+595;Charaxes entabeni
+596;Cyphostemma greenwayi
+597;Industriminister
+598;Disenochus munroi
+599;Nematabramis verecundus
+600;Skålleruds församling
+601;Oued Souf Mellene (wadi i Algeriet, lat 26,44, long 8,46)
+602;Utetes kenyaensis
+603;Tang-e Nīmdūr
+604;Alto San Pedro (berg i Boyacá, lat 5,57, long -73,62)
+605;Plan del Bajío
+606;Sven Olof ”Esso” Larsson
+607;Dicranomyia atritarsis
+608;Prijevorac (sadelpass)
+609;Phnum Kâmpô Yêng
+610;Hamri Lbahlou
+611;Periscyphis albomarginatus
+612;Ledum Lake
+613;Matundo (vattendrag i Malanje, lat -7,88, long 17,17)
+614;Strongyló Kefáli
+615;Serienovell
+616;Ludwig Böck
+617;Cerro Metztlantepetl
+618;Petroleumkoks
+619;Cerro Arenal (berg i Nicaragua)
+620;Asthena ochrifasciaria
+621;Arenaria altorum
+622;Livvakterna (TV-serie)
+623;Oscars ungdomskör
+624;Poa hakusanensis
+625;Hydrellia lunata
+626;Shirdo
+627;Terinos batjanensis
+628;Coccus synapheae
+629;Riacho Salgado (periodiskt vattendrag i Brasilien, Ceará, lat -5,00, long -38,80)
+630;Aptychotrema bougainvillii
+631;Saluran Induk Lodoagung
+632;Tappeh-ye Qonāt-e Gol Gūsheh
+633;Botryllus gregalis
+634;Caraipa parvifolia
+635;Iskaffe
+636;Shēlah-ye Khāklaysah
+637;Loxodera caespitosa
+638;Aknioun
+639;Colias alpherakii
+640;Cheshmeh-ye Qūshā Bowlāgh (källa i Markazi)
+641;Picrogonopus gracillimus
+642;Kalasaari (ö i Norra Savolax, Varkaus)
+643;Håkan Eriksson
+644;Sungai Tabalong-kiwa
+645;Oshkosh, Wisconsin
+646;Don't Shoot Me I'm Only the Piano Player
+647;Boinya (vattendrag)
+648;Antictenia torta
+649;Friedrich Gogarten
+650;Friskrivning
+651;Degelia cyanoloma
+652;Wahlenbergia tenuis
+653;Suberanthus canellifolius
+654;Roger Qvarsell
+655;Cormorant Bay
+656;Mendidius palmetincola
+657;San Paolo
+658;Chrysogorgia comans
+659;Pedicularis superba
+660;Stigmidium stereocaulorum
+661;Panopea abrupta
+662;Quebrada de Naranjos
+663;Emsalö
+664;Weashkog Lake
+665;Rhopalopsole zhejiangensis
+666;Metsemaswaane
+667;Massakern inom den nepalesiska kungafamiljen
+668;Prailles
+669;Þingmannaháls
+670;Megalodoras uranoscopus
+671;Mark Brooks
+672;Damei
+673;Microgaster sylleptae
+674;Poladryas minuta
+675;Physocephala atricornis
+676;Neophyllaphis iuiuyensis
+677;Vunjamo
+678;Dīār Jān
+679;Center Harbor
+680;Alexander Gerschenkron
+681;Pulau Intan Besar
+682;Hemigrammocapoeta nana
+683;Long Buckby
+684;Beyers Coulee
+685;Liparomyia separata
+686;Kali Gandu (vattendrag i Indonesien, Jawa Tengah, lat -7,59, long 109,51)
+687;La Destiladera
+688;Sous-préfecture de Brobo
+689;Colopea
+690;Smelt Brook (vattendrag i Kanada, Nova Scotia, lat 44,51, long -63,88)
+691;Third Branch Humes River
+692;Vuori-Lovinen
+693;Moffatia plumicauda
+694;Tarangaole
+695;Lepidodactylus lugubris
+696;Pumanaken
+697;St. Josephs Lake (sjö i Kanada, Nova Scotia)
+698;Herrdubbel vid Wimbledonmästerskapen 2018
+699;Aphis verticillatae
+700;Neolimonia indomita
+701;Pointe du Parc (bergstopp)
+702;Erebia semimurina
+703;Cerro La Ventana (berg i Mexiko, Sonora, Ures, lat 29,18, long -110,07)
+704;Ravine du Carénage
+705;Leif Lindström
+706;Río Acacías
+707;Ruščik
+708;Baldratia halimocnemiis
+709;Björs Anna Matsdotter
+710;Atarba rhodesiae
+711;Thelohaniidae
+712;Jinding Shan (kulle)
+713;Rohana Main Canal
+714;Kōh-e Jow
+715;Nils Gyllenstierna (1526–1601)
+716;Ammophilomima basilewskyi
+717;Cleome niamniamensis
+718;Rhypopteryx flavinotata
+719;Kali Clangap
+720;Tectarchus huttoni
+721;Incarville
+722;Silsilah-ye Kōhhā-ye Shashpīr
+723;Inlet Point (udde)
+724;Arroyo Salado (vattendrag i Dominikanska republiken, Monte Plata, lat 18,86, long -70,00)
+725;Jorbträsket
+726;Spetsmössor
+727;Liparochrus sculptilis
+728;Gunung Ambulung
+729;Dubuzon
+730;Vuangguru
+731;Formel Yamaha
+732;Osek nad Bečvou
+733;Broughtonia cubensis
+734;Kyaukkyi Taung (berg i Burma, Rakhinestaten)
+735;Allocosa pistia
+736;Schoenus carsei
+737;Buchenavia sericocarpa
+738;Stor-Mörttjärnen, Medelpad
+739;Golden Gully (vattendrag)
+740;Zernya clypeata
+741;Heterosminthurus insignis
+742;Île au Pigeon
+743;Galtåsens station
+744;Anamesia frenchii
+745;Bicellariella stolonifera
+746;Ocinebrina grippi
+747;Pilmalmätare
+748;Bolqarçay Su Anbarı
+749;Chèvreville, Oise
+750;The Watchman
+751;Honnali
+752;Lithurgus hypoleucus
+753;Tang-gol (dal i Sydkorea, Gangwon, lat 37,12, long 128,93)
+754;Gradac (berg i Bosnien och Hercegovina, Federationen Bosnien och Hercegovina, lat 43,84, long 17,95)
+755;Ruault Lake
+756;Bor Main Canal
+757;Calliostoma dentatum
+758;Wai Panas
+759;Wādī Ḩulw
+760;HMS Pollux (T104)
+761;Melchor
+762;Kapiltugei
+763;Saccopteryx antioquensis
+764;Norra Julingstjärnen
+765;Muehlenbeckia monticola
+766;Cabeza de la Cornanta
+767;Trail Creek (vattendrag i Kanada, Alberta, lat 50,87, long -114,89)
+768;Tumuc-Humac Mountains
+769;Schichowitz
+770;Deagon
+771;Trewern
+772;San Rocco
+773;Tanjung Wacueya
+774;Mönckebergstrasse
+775;Amata palestinae
+776;Abades (kommun)
+777;Citharichthys spilopterus
+778;Skiljetjärnen
+779;Tanjung Bulupolo
+780;Dendrocoelum lacteum
+781;Roxheim
+782;Guldān
+783;Oreogrammitis insularis
+784;Urera keayi
+785;Nbotchiré
+786;Lac McLaren (sjö i Kanada, Lanaudière)
+787;Ischnoceros pedipullus
+788;Världscupen i längdåkning 2011/2012
+789;Rosulje (berg)
+790;Vučjača
+791;Crematogaster macracantha
+792;Red Point (udde i Kanada, New Brunswick, Saint John County)
+793;Cerro Farnauna
+794;Saint-Jeure-d'Ay
+795;140 Siwa
+796;Aalen
+797;Burstall, Saskatchewan
+798;Hungry Island
+799;Lac aux Sables (sjö i Kanada, Québec, Lanaudière)
+800;Cheiloclinium articulatum
+801;H̱ârale Awḏa‘a
+802;River Saumache
+803;Santa Pola (kommunhuvudort)
+804;Twoyqhalsht Indian Reserve 16
+805;Australobolbus nitidiceps
+806;Wadi Ramm
+807;Tracey Lake (sjö i Kanada, New Brunswick, lat 45,65, long -65,07)
+808;Griljering
+809;Solena amplexicaulis
+810;Bakousse
+811;Acequia Daza
+812;Adelognathus adventor
+813;Laguna El Cerro (sjö i Colombia)
+814;Carl Axel Egerström
+815;Racomitrium seychellarum
+816;Thalaina macfarlandi
+817;Pteromalus toxeus
+818;Baviso
+819;Eulonchopria limbella
+820;Exoprosopa tripartita
+821;Sindgi
+822;Eastern River
+823;Stora Kvarntjärnen (Glava socken, Värmland)
+824;Bukit Siam
+825;Pendria dica
+826;Svaipa sameby
+827;Lac Madeleine
+828;Ci Wuni
+829;Novosil'skogo
+830;Departamento de Valle Fértil
+831;Líšná (ort i Tjeckien, Plzeň)
+832;Cañada Mendoza (ravin i Mexiko, Baja California Sur, lat 25,45, long -111,17)
+833;Cerro Santa Rosita
+834;Polymastia mespilus
+835;Sphaeronemoura formosana
+836;Microchilus marulandae
+837;Gounga (kullar)
+838;Mainski Vrh
+839;Asteriscium famatinense
+840;Açude Cedro
+841;Chrysothesium minkwitzianum
+842;Korhosensaari (ö i Norra Savolax)
+843;Falaise aux Fossiles
+844;Bear Hill (kulle i Kanada, Newfoundland och Labrador, lat 50,12, long -56,13)
+845;São Vicente Ferrer
+846;Kunday
+847;Strumigenys louisianae
+848;LUPAS
+849;Corrego Ponte Alta
+850;Maciço de Quindegi
+851;Krynica-Zdrój
+852;Puerto Rico Airport (flygplats i Bolivia)
+853;Sierra de Lácera
+854;Tennappera Waterhole
+855;Anthostomella cyperaceicola
+856;Philippe Ariès
+857;Buchnera attenuata
+858;Gakola
+859;Lestidium bigelowi
+860;Aganippe montana
+861;‘Ayn al Qiţār (källa i Libyen)
+862;Lexington Steele
+863;Melkitiska grekisk-katolska kyrkan
+864;Khallet es Souâne (wadi i Libanon, lat 33,45, long 35,35)
+865;Armada (företag)
+866;Djebel Ech Chaf
+867;Paraphausis eximia
+868;Annectacarus longisetosus
+869;Anthodioctes cerradicola
+870;Catasetum parguazense
+871;Hogstads församling
+872;Phaeida tesquorum
+873;Enicospilus thanei
+874;Eupithecia centralasiata
+875;Synechocryptus levaillantii
+876;Draa el Abiod (ås)
+877;Hupfeld
+878;Palindi Patakawai
+879;Lightblue Lake
+880;Punta Sardinas (udde i Nicaragua)
+881;Jonas Sandwall
+882;Gory Dzjergetal
+883;Schizotrichella
+884;Imaus munda
+885;Mīān Kūh (berg i Teheran, lat 35,81, long 52,94)
+886;Les Bois (ort)
+887;Huntington, West Virginia
+888;Isla Mauricio (ö i Chile)
+889;Semipunctoribates zachvatkini
+890;Eugenia morii
+891;Juliana Maria av Braunschweig-Wolfenbüttel
+892;Koudyet Jnane Lehdad
+893;Cassechi (vattendrag i Malanje, lat -8,01, long 16,44)
+894;Frankenweenie
+895;Bahéla
+896;Chamaecrista calycioides
+897;Qajīr Parīdah
+898;Jukes Park
+899;Hangu (köping)
+900;Mount Robert (berg i Australien, Queensland, Isaac)
+901;Jāyezān (ort i Iran)
+902;Hægebostads kommun
+903;Qalayçı Dağı
+904;Pericrocotus montanus
+905;Paracilicaea clavus
+906;Franks Casket
+907;Øystein Ore
+908;Ruisseau Caron (vattendrag i Kanada, lat 49,25, long -65,37)
+909;Boloto Akbas (träsk)
+910;Îles Barracouta
+911;Changbai Dang
+912;Ethelum americanum
+913;Ḩişār Nāw
+914;Vranjina (ort)
+915;Thalictrum morisonii
+916;Taygh-e Tāwah
+917;Rosenlund (olika betydelser)
+918;Río Caobo
+919;Rajpura Drain
+920;Lilla Furetjärnet
+921;10,5 cm leFH 18
+922;Batang Lubu
+923;Mirepoix
+924;Liophis steinbachi
+925;Razliv (distrikt)
+926;Desmoclystia rubecula
+927;Merkuriusgatan
+928;Elatostema appendiculatum
+929;Gryon exsculptum
+930;Coccobius addisoni
+931;Allotrichoma alium
+932;Hocquinghen
+933;Philipp Heinrich Erlebach
+934;Hemiteles cylindrithorax
+935;Guy Mairesse
+936;Apteronotus leptorhynchus
+937;Karl-Marx-Strasse
+938;Broughton Island (ö i Australien)
+939;Alain Sutter
+940;Riacho do Arraial
+941;Jackfish Lake (sjö i Kanada, Alberta, lat 54,81, long -113,09)
+942;Cerro El Guarache
+943;Epirrhoe albotaeniatula
+944;Mount Serjeant
+945;Cot Batee Lipis
+946;Eleutherobia aurea
+947;Coincy, Moselle
+948;Gunung Agung (Bali)
+949;Oleria liisa
+950;Eulomalus pradali
+951;Lewis Glacier (glaciär i Antarktis)
+952;Holsljunga församling
+953;Preslap (sadelpass i Makedonien, Opsjtina Pehčevo)
+954;Ascochilus
+955;Pritha tenuispina
+956;Banjāri Pass
+957;Goniophyto bryani
+958;Helicobia cuencana
+959;Arachnophaga abstrusa
+960;Fairfield, Iowa
+961;Randi Marainen
+962;Wade Dam
+963;Colin Campbell (1883)
+964;Nambua Creek (vattendrag, lat -19,15, long 178,08)
+965;Maihgaura Cut
+966;Darbandak Pōṯyān
+967;Gunung Tumungguh
+968;Ooctonus
+969;Actebia praecurrens
+970;Fiji i olympiska sommarspelen 2016
+971;Sungai Belanak
+972;Carl Cederblad
+973;Monte Mayne
+974;Canyon Stretch
+975;Rio Branco do Sul
+976;Mosquito Point (udde i Kanada, Saskatchewan)
+977;Svarttjärnen (Ramsele socken, Ångermanland, 705140-152624)
+978;Cheshmeh-ye Katābād
+979;De Geerska palatset
+980;Urljača
+981;Peckoltia braueri
+982;Spånga/Bromstens BK
+983;Aztlán 3ra. Sección (ort i Mexiko, lat 18,09, long -92,69)
+984;Godholmen (ö)
+985;Birkat al Ḩallūfah
+986;Gagea kamelinii
+987;Carl Heinrich Bornebusch
+988;Philip Narrows
+989;Muva
+990;Glumina
+991;Albizia amara
+992;16356 Univbalttech
+993;Mimosa insignis
+994;Gymnobodes
+995;Microxyphiella fuligo
+996;Micromacromia zygoptera
+997;Mazza Point
+998;Cariblatta cuprea
+999;Neolithodes diomedeae
+1000;Pterella penicillaris
