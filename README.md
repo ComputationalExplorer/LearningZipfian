@@ -15,8 +15,10 @@ For each language considered :
 3) Tokenize the article into words and store them to a dictionnary for counting
 4) Order the results and store the 5000 most frequent words to file, along with their count.
 
+Note : The current code works for languages for which words are separated by spaces. Languages where this is not the case (such as Mandarin or Japanese) would require a modified word tokenizer.
 
 # Results
+
 
 ![alt text](https://github.com/ComputationalExplorer/LearningZipfian/blob/master/zipf_law_en.png "Zipf's law example (English)")
 
