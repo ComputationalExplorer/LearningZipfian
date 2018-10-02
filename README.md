@@ -4,7 +4,9 @@
 Observe graphically Zipf's law based on articles sampled from Wikipedia, for various languages
  
 Obtain estimates for : 
+
  i) the proportion of the texts (cummulative word frequency) covered by the most frequent 100 words, and 
+ 
  ii) the number of words required to reach the 50% threshold
 
 # Methodology
@@ -22,7 +24,7 @@ Note : The current code works for languages for which words are separated by spa
 1) The sample articles used and the corresponding word frequencies are both stored in the "/results" directory, with the last 2 letters of the file names indicating the target language.
 For example, results for polish would be in the file "sample_articles_pl.txt" and "word_freq_pl.txt", respectively.
 
-2) Empirical observation of "Zipf's law", using both in-sample (IS) data - that is, estimating a word's frequency with the same data used for the ordering - and out-of-sample (OOS), where the word's frequency is estimated using an independent sample.
+2) Empirical observation of "Zipf's law", using both in-sample (IS) data - that is, estimating a word's frequency with the same data used for the ordering - and out-of-sample (OoS), where the word's frequency is estimated using an independent sample.
 ![alt text](https://github.com/ComputationalExplorer/LearningZipfian/blob/master/zipf_law_en.png "Zipf's law example (English)")
 
 3) Summary of the results :
