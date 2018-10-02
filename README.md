@@ -19,11 +19,14 @@ Note : The current code works for languages for which words are separated by spa
 
 # Results
 
+1) The sample articles used and the corresponding word frequencies are both stored in the "/results" directory, with the last 2 letters of the file names indicating the target language.
+For example, results for polish would be in the file "sample_articles_pl.txt" and "word_freq_pl.txt", respectively.
 
+2) Empirical observation of "Zipf's law", using both in-sample (IS) data - that is, estimating a word's frequency with the same data used for the ordering - and out-of-sample (OOS), where the word's frequency is estimated using an independent sample.
 ![alt text](https://github.com/ComputationalExplorer/LearningZipfian/blob/master/zipf_law_en.png "Zipf's law example (English)")
 
-
-|Language	| First 100 words (%)	| Estimated number to cover 50%| Number unique words| 
+3) Summary of the results :
+|Language	| First 100 words (%)	| Estimated number to cover 50%| Number of unique words| 
 | :---| ---	| --- | ---: | 
 |English|41.8|262|38 709|
 |Swedish|53.91|72|14 121|
@@ -43,6 +46,9 @@ Note : The current code works for languages for which words are separated by spa
 |Icelandic|38.03|442|38 731|
 |Swahili|41.97|207|21 108|
 |Mongolian|21.7|992|43 005|
+
+For example, the first 100 english words (ranked by decreasing frequency) contribute to 41.8% of all words of the sampled articles. And this coverage would reach about 50% when considering the top 262 words.
+Note that these results could vary somewhat depending on the sample size and no error estimates are provided (at least for now!).
 
 # Running the code
 
