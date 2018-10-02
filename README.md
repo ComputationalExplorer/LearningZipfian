@@ -26,6 +26,7 @@ For example, results for polish would be in the file "sample_articles_pl.txt" an
 ![alt text](https://github.com/ComputationalExplorer/LearningZipfian/blob/master/zipf_law_en.png "Zipf's law example (English)")
 
 3) Summary of the results :
+
 |Language	| First 100 words (%)	| Estimated number to cover 50%| Number of unique words| 
 | :---| ---	| --- | ---: | 
 |English|41.8|262|38 709|
